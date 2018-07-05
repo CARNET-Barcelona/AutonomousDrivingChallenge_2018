@@ -1,0 +1,481 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.lamandarinadenewton.com/propostes/seat" resolutions="1x" timestamp="1498511425082">
+  <folder name="css">
+    <file name="site_global.css" crc="494626011"/>
+    <file name="terms-seat-autonomous-driving-challenge.css" crc="400769742" ref="terms-seat-autonomous-driving-challenge"/>
+    <file name="nomq_terms-seat-autonomous-driving-challenge.css" crc="4169963990" ref="terms-seat-autonomous-driving-challenge"/>
+    <file name="index.css" crc="3941076606" ref="index"/>
+    <file name="nomq_index.css" crc="61205143" ref="index"/>
+    <file name="seat-autonomous-driving-challenge.css" crc="295676171" ref="seat-autonomous-driving-challenge"/>
+    <file name="nomq_seat-autonomous-driving-challenge.css" crc="4266734426" ref="seat-autonomous-driving-challenge"/>
+    <file name="seat-eng-autonomous-driving-challenge.css" crc="19278407" ref="seat-eng-autonomous-driving-challenge"/>
+    <file name="nomq_seat-eng-autonomous-driving-challenge.css" crc="99522233" ref="seat-eng-autonomous-driving-challenge"/>
+    <file name="teams-seat-autonomous-driving-challenge.css" crc="3847969388" ref="teams-seat-autonomous-driving-challenge"/>
+    <file name="nomq_teams-seat-autonomous-driving-challenge.css" crc="156491121" ref="teams-seat-autonomous-driving-challenge"/>
+    <file name="teams-eng-seat-autonomous-driving-challenge.css" crc="346569485" ref="teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="nomq_teams-eng-seat-autonomous-driving-challenge.css" crc="485530915" ref="teams-eng-seat-autonomous-driving-challenge"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="teams-seat-autonomous-driving-challenge:index:terms-seat-autonomous-driving-challenge:seat-eng-autonomous-driving-challenge:seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="museutils.js" crc="4232573551" ref="teams-seat-autonomous-driving-challenge:index:terms-seat-autonomous-driving-challenge:seat-eng-autonomous-driving-challenge:seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="whatinput.js" crc="86476730" ref="teams-seat-autonomous-driving-challenge:index:terms-seat-autonomous-driving-challenge:seat-eng-autonomous-driving-challenge:seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="museconfig.js" crc="4152223963" ref="teams-seat-autonomous-driving-challenge:index:terms-seat-autonomous-driving-challenge:seat-eng-autonomous-driving-challenge:seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="teams-seat-autonomous-driving-challenge:index:terms-seat-autonomous-driving-challenge:seat-eng-autonomous-driving-challenge:seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="teams-seat-autonomous-driving-challenge:index:terms-seat-autonomous-driving-challenge:seat-eng-autonomous-driving-challenge:seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="teams-seat-autonomous-driving-challenge:index:terms-seat-autonomous-driving-challenge:seat-eng-autonomous-driving-challenge:seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="require.js" crc="4234670167" ref="teams-seat-autonomous-driving-challenge:index:terms-seat-autonomous-driving-challenge:seat-eng-autonomous-driving-challenge:seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:seat-autonomous-driving-challenge"/>
+    <file name="webpro.js" crc="3770351119" ref="index:seat-autonomous-driving-challenge"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="index:seat-autonomous-driving-challenge"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:terms-seat-autonomous-driving-challenge:seat-eng-autonomous-driving-challenge:seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+  </folder>
+  <folder name="images">
+    <file name="a-pág.-maestra---a---copia-favicon.ico" crc="4183250667" ref="teams-seat-autonomous-driving-challenge"/>
+    <file name="11.png" crc="3933573585" ref="teams-seat-autonomous-driving-challenge:index:terms-seat-autonomous-driving-challenge:seat-eng-autonomous-driving-challenge:seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge">
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="svg-pegado-387299x83.svg" crc="145026183" seo="true" ref="teams-seat-autonomous-driving-challenge:terms-seat-autonomous-driving-challenge:seat-eng-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge">
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-eng-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-eng-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-eng-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-eng-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-eng-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-eng-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-eng-autonomous-driving-challenge" alt=""/>
+      <caption webpage="terms-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="terms-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="terms-seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="svg pegado 387299x83_poster_.png" crc="20568871" ref="teams-seat-autonomous-driving-challenge"/>
+    <file name="svg-pegado-83709x50.svg" crc="4065288254" seo="true" ref="teams-seat-autonomous-driving-challenge:index:terms-seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="terms-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="terms-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="terms-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="svg pegado 83709x50_poster_.png" crc="4095574176" ref="teams-seat-autonomous-driving-challenge"/>
+    <file name="svg-pegado-83709x92.svg" crc="4291277660" seo="true" ref="teams-seat-autonomous-driving-challenge:terms-seat-autonomous-driving-challenge:seat-eng-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge">
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-eng-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-eng-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-eng-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-eng-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-eng-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-eng-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-eng-autonomous-driving-challenge" alt=""/>
+      <caption webpage="terms-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="terms-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="terms-seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="svg pegado 83709x92_poster_.png" crc="471807380" ref="teams-seat-autonomous-driving-challenge"/>
+    <file name="equipo1_uma garage.jpg" crc="251560594" ref="teams-seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge">
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="equipo2_autopia.jpg" crc="483930329" ref="teams-seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge">
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="equipo3_etse-urbots.jpg" crc="290878294" ref="teams-seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge">
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="equipo4_esibot.jpg" crc="3984632587" ref="teams-seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge">
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="equipo5_sirius.jpg" crc="152180193" ref="teams-seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge">
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="equipo6_uvigo_autobot.jpg" crc="4054063515" ref="teams-seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge">
+      <caption webpage="teams-eng-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-eng-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="equipo7_amuvag.jpg" crc="284903761" ref="teams-seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge">
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="equipo8_barcelonatechteam_btt.jpg" crc="492897896" ref="teams-seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge">
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="equipo9_elektra junior.jpg" crc="278032442" ref="teams-seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge">
+      <caption webpage="teams-seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="11-u36357-fr.png" crc="297409694" ref="teams-seat-autonomous-driving-challenge:terms-seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="equipo1_uma garage-u36543-fr.jpg" crc="162671120" ref="teams-seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="equipo3_etse-urbots-u36542-fr.jpg" crc="3797582411" ref="teams-seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="equipo5_sirius-u36562-fr.jpg" crc="4018940440" ref="teams-seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="equipo6_uvigo_autobot-u36569-fr.jpg" crc="258822995" ref="teams-seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="equipo7_amuvag-u36576-fr.jpg" crc="253589823" ref="teams-seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="equipo8_barcelonatechteam_btt-u36583-fr.jpg" crc="320585981" ref="teams-seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="11-u36357-fr2.png" crc="4021251569" ref="teams-seat-autonomous-driving-challenge:terms-seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="blank.gif" crc="4208392903" ref="teams-seat-autonomous-driving-challenge:index:terms-seat-autonomous-driving-challenge:seat-eng-autonomous-driving-challenge:seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge"/>
+    <file name="imatge1h3.jpg" crc="4195022307" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="12.png" crc="32139419" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="image.jpg" crc="4007349939" seo="true" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="svg-pegado-44492x56.svg" crc="262449968" seo="true" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="svg pegado 44492x56_poster_.png" crc="3874954236" ref="index"/>
+    <file name="imatge2h.jpg" crc="3988514979" seo="true" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="16 copia.png" crc="4288100282" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="imatge3h.jpg" crc="3933994520" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="svg-pegado-191.svg" crc="534167676" seo="true" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="svg pegado 191_poster_.png" crc="173373442" ref="index"/>
+    <file name="svg-pegado-1912.svg" crc="254101171" seo="true" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="svg pegado 191_poster_2.png" crc="4267406353" ref="index"/>
+    <file name="svg-pegado-1913.svg" crc="486372463" seo="true" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="svg pegado 191_poster_3.png" crc="108810144" ref="index"/>
+    <file name="22.jpg" crc="491476078" seo="true" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="33175x183.jpg" crc="4067065267" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg-pegado-175714x147.svg" crc="4053508880" seo="true" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="svg pegado 175714x147_poster_.png" crc="3858161713" ref="index"/>
+    <file name="svg-pegado-204142x52.svg" crc="4175752823" seo="true" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="svg pegado 204142x52_poster_.png" crc="4212590234" ref="index"/>
+    <file name="seat8.jpg" crc="481507656" seo="true" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="svg-pegado-72417x91.svg" crc="4179371938" seo="true" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="svg pegado 72417x91_poster_.png" crc="3911527281" ref="index"/>
+    <file name="svg-pegado-91562x72.svg" crc="4269995248" seo="true" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="svg pegado 91562x72_poster_.png" crc="4245091653" ref="index"/>
+    <file name="far.jpg" crc="4017092331" seo="true" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="far_d.jpg" crc="130614665" seo="true" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="imatge2h961x363.jpg" crc="226764070" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12-u121333-fr.png" crc="25345893" ref="index:seat-autonomous-driving-challenge"/>
+    <file name="16 copia-u144530-fr.png" crc="4057945604" ref="index"/>
+    <file name="burger.png" crc="4285597921" seo="true" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="imatge2h628x238.jpg" crc="4056179009" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12-u121333-fr2.png" crc="404995268" ref="index:seat-autonomous-driving-challenge"/>
+    <file name="12-u112420-fr.png" crc="322141439" ref="index"/>
+    <file name="seat8454x220.jpg" crc="3889321264" ref="index:seat-autonomous-driving-challenge">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16 copia-u144530-fr2.png" crc="131408106" ref="index"/>
+    <file name="burger-crop-u162394.png" crc="3875730627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imatge2h375x142.jpg" crc="436278067" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12-u121333-fr3.png" crc="489032241" ref="index:seat-autonomous-driving-challenge"/>
+    <file name="16 copia-u144530-fr3.png" crc="3984030803" ref="index"/>
+    <file name="burger-crop-u1623942.png" crc="3875730627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imatge2h320x121.jpg" crc="4182999207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12-u121333-fr4.png" crc="4231108930" ref="index:seat-autonomous-driving-challenge"/>
+    <file name="16 copia-u144530-fr4.png" crc="468661149" ref="index"/>
+    <file name="seat8454x220-u160117-fr.jpg" crc="4007460676" ref="index:seat-autonomous-driving-challenge"/>
+    <file name="a-pág.-maestra---a-favicon.ico" crc="4183250667" ref="seat-eng-autonomous-driving-challenge"/>
+    <file name="svg-pegado-83709x502.svg" crc="447121965" seo="true" ref="seat-eng-autonomous-driving-challenge:seat-autonomous-driving-challenge:teams-eng-seat-autonomous-driving-challenge">
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-eng-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-eng-autonomous-driving-challenge" alt=""/>
+      <caption webpage="seat-eng-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-eng-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-eng-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-eng-seat-autonomous-driving-challenge" alt=""/>
+      <caption webpage="teams-eng-seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="svg pegado 83709x50_poster_2.png" crc="3819661208" ref="seat-eng-autonomous-driving-challenge"/>
+    <file name="12-u172095-fr.png" crc="4069240556" ref="seat-autonomous-driving-challenge"/>
+    <file name="12-u172100-fr.png" crc="3924058545" ref="seat-autonomous-driving-challenge"/>
+    <file name="burger-crop-u172220.png" crc="3875730627" seo="true" ref="seat-autonomous-driving-challenge">
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+    <file name="12-u172095-fr2.png" crc="4159713345" ref="seat-autonomous-driving-challenge"/>
+    <file name="burger-crop-u1722202.png" crc="3875730627" seo="true" ref="seat-autonomous-driving-challenge">
+      <caption webpage="seat-autonomous-driving-challenge" alt=""/>
+    </file>
+  </folder>
+  <file name="teams-seat-autonomous-driving-challenge.html" crc="4053783338" seo="true" mt="1497475472028" redirect="true"/>
+  <file name="index.html" crc="276216672" seo="true" mt="1498511128775" redirect="true"/>
+  <file name="terms-seat-autonomous-driving-challenge.html" crc="369070027" seo="true" mt="1497475510546" redirect="true"/>
+  <file name="seat-eng-autonomous-driving-challenge.html" crc="4196308723" seo="true" mt="1497475532292" redirect="true"/>
+  <file name="seat-autonomous-driving-challenge.html" crc="124598480" seo="true" mt="1498510367731" redirect="true"/>
+  <file name="teams-eng-seat-autonomous-driving-challenge.html" crc="3813530142" seo="true" mt="1497475490254" redirect="true"/>
+</manifest>
