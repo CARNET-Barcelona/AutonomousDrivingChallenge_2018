@@ -1,25 +1,25 @@
-* {
-  margin: 0px;
-  padding: 0px;
-  border: 0px;
+
+*{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
 }
 
 body{
-  background-color: grey;
-  width: 100%;
-  height: 2700px;
+	background-color: grey;
+	align-items: center;
 }
 
-.Padre{
-  background-color: white;
-  width: 1200px;
-  height: 2700px;
-  margin: 0px 0px 0px 350px;
-  position: absolute;
-  top: ;
-  right: ;
-  bottom: ;
-  left: ;
+.contenedor{
+	background-color: white;
+	width: 80%;
+	height: 2700px;
+	margin:auto;
+	position: relative;
+}
+
+.faldon{
+	width: 100%;
 }
 
 /* CABECERA
@@ -29,22 +29,26 @@ body{
 
 }
 
-.Cabecera img{
-
-}
-
 /* EQUIPO
    ====== */
 
 .Equipo{
-  margin: 0px 100px 0px 100px;
+	width: 100%;
+	height: auto;
+	max-height: 29%;
+ 	margin: auto;
+ 	position: absolute;
+ 	top: 5%;
+ 	right: ;
+ 	bottom: ;
+ 	left: ;
 }
 
 .Equipo .row{
 
 }
 
-.Equipo p{
+.Equipo p{	
   
 }
 
@@ -63,41 +67,42 @@ body{
 
 /* CORCORTINILLA-INFERIOR-EQUIPOS
    ============================== */
+
 .Cortinilla-inferior-equipos{
-  position: absolute;
-  top: 900px;
-  right: ;
-  bottom: ;
-  left: ;
+	width: 100%;
+	position: absolute;
+	top: 34%;
+	right: ;
+	bottom: ;
+	left: ;
 }
-
-.Cortinilla-inferior-equipos img{
-
-}
-
 
 /* GALERIA
    ======= */
+
 .Galeria{
-  margin: 0px 100px 0px 100px;
-  position: absolute;
-  top: 1045px;
-  right: ;
-  bottom: ;
-  left: -100px;
+	width: 100%;
+	margin: auto;
+	padding: auto;
+	position: absolute;
+	top: 40.82%;
+	right: ;
+	bottom: ;
+	left: -100px;
 }
 
 .Galeria img{
-  width: 1200px;
-  height: 900px;
+	width: 100%;
+	height: 900px;
+	margin: auto;
 }
 
 .Galeria .item{
-  margin: 0px;
-  padding: 0px;
-  background-color: black;
-  width: 1200px;
-  height: 700px;
+	margin: auto;
+	padding: 0px;
+	background-color: black;
+	width: 100%;
+	height: 700px;
 }
 
 .Galeria h3{
@@ -109,14 +114,10 @@ body{
 
 .Cabecera-testimonios{
   position: absolute;
-  top: 1745px;
+  top: 1762px;
   right: ;
   bottom: ;
   left: ;
-}
-
-.Cabecera-testimonios img{
-
 }
 
 .Cabecera-testimonios h2{
@@ -133,7 +134,7 @@ body{
    =========== */
 
 .Testimonios{
-  width: 1200px;
+  width: 100%;
   position: absolute;
   top: 1950px;
   right: ;
@@ -145,7 +146,7 @@ body{
    ====== */
 
 .Footer-custom{
-  width: 1200px;
+  width: 100%;
   margin: 0px 0px;
   position: absolute;
   top: 2250px;
@@ -176,6 +177,7 @@ body{
    =================== */
 
 .Cortinilla-inferior{
+  width: 100%;
   position: absolute;
   top: ;
   right: ;
@@ -183,9 +185,6 @@ body{
   left: ;
 }
 
-.Cortinilla-inferior img{
-
-}
 
 /*
 
