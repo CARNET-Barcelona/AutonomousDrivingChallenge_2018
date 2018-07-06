@@ -53,12 +53,13 @@ body{
 }
 
 .nombre_universidad-equipo{
-
+	font-weight: bold;
 }
 
 .nombre_universidad-equipo h1{
   /* Nombre del equipo */
   color: #db5c24;
+  font-weight: bold;
 }
 
 .nombre_universidad-equipo h3{
@@ -88,7 +89,7 @@ body{
 	top: 40.82%;
 	right: ;
 	bottom: ;
-	left: -100px;
+	left: ;
 }
 
 .Galeria img{
@@ -113,21 +114,23 @@ body{
    ==================== */
 
 .Cabecera-testimonios{
-  position: absolute;
-  top: 1762px;
-  right: ;
-  bottom: ;
-  left: ;
+	width: 100%;
+	position: absolute;
+	top: 66.65%;
+	right: ;
+	bottom: ;
+	left: ;
 }
 
 .Cabecera-testimonios h2{
-  color: white;
-  margin: 40px 0px 0px 40px;
-  position: absolute;
-  top: 0px;
-  right: ;
-  bottom: ;
-  left: ;
+  	color: white;
+ 	font-weight: bold;
+  	margin: 40px 0px 0px 40px;
+  	position: absolute;
+  	top: 0px;
+	right: ;
+ 	bottom: ;
+  	left: ;
 }
 
 /* TESTIMONIOS
@@ -136,7 +139,7 @@ body{
 .Testimonios{
   width: 100%;
   position: absolute;
-  top: 1950px;
+  top: 75%;
   right: ;
   bottom: ;
   left: ;
@@ -157,6 +160,7 @@ body{
 
 .Footer-custom h3{
   color: #db5c24;
+  font-weight: bold;
   text-align: center;
 }
 
