@@ -10,216 +10,1101 @@ body{
 	align-items: center;
 }
 
-.contenedor{
-	background-color: white;
-	width: 80%;
-	height: 2700px;
-	margin:auto;
-	position: relative;
-}
-
-.faldon{
-	width: 100%;
-}
-
-/* CABECERA
-   ======== */
-
-.Cabecera{
-
-}
-
-/* EQUIPO
-   ====== */
-
-.Equipo{
-	width: 100%;
-	height: auto;
-	max-height: 29%;
- 	margin: auto;
- 	position: absolute;
- 	top: 5%;
- 	right: ;
- 	bottom: ;
- 	left: ;
-}
-
-.Equipo .row{
-
-}
-
-.Equipo p{	
-  
-}
-
-.nombre_universidad-equipo{
-	font-weight: bold;
-}
-
-.nombre_universidad-equipo h1{
-  /* Nombre del equipo */
-  color: #db5c24;
-  font-weight: bold;
-}
-
-.nombre_universidad-equipo h3{
-  /* Nombre de la universidad de procedencia */
-}
-
-/* CORCORTINILLA-INFERIOR-EQUIPOS
-   ============================== */
-
-.Cortinilla-inferior-equipos{
-	width: 100%;
-	position: absolute;
-	top: 34%;
-	right: ;
-	bottom: ;
-	left: ;
-}
-
-/* GALERIA
-   ======= */
-
-.Galeria{
-	width: 100%;
-	margin: auto;
-	padding: auto;
-	position: absolute;
-	top: 40.82%;
-	right: ;
-	bottom: ;
-	left: ;
-}
-
-.Galeria img{
-	width: 100%;
-	height: 900px;
-	margin: auto;
-}
-
-.Galeria .item{
-	margin: auto;
-	padding: 0px;
-	background-color: black;
-	width: 100%;
-	height: 700px;
-}
-
-.Galeria h3{
-  color: #db5c24;
-}
-
-/* CABECERA-TESTIMONIOS
-   ==================== */
-
-.Cabecera-testimonios{
-	width: 100%;
-	position: absolute;
-	top: 66.65%;
-	right: ;
-	bottom: ;
-	left: ;
-}
-
-.Cabecera-testimonios h2{
-  	color: white;
- 	font-weight: bold;
-  	margin: 40px 0px 0px 40px;
-  	position: absolute;
-  	top: 0px;
-	right: ;
- 	bottom: ;
-  	left: ;
-}
-
-/* TESTIMONIOS
-   =========== */
-
-.Testimonios{
-  width: 100%;
-  position: absolute;
-  top: 75%;
-  right: ;
-  bottom: ;
-  left: ;
-}
-
-/* FOOTER
-   ====== */
-
-.Footer-custom{
-  width: 100%;
-  margin: 0px 0px;
-  position: absolute;
-  top: 2250px;
-  right: ;
-  bottom: ;
-  left: ;
-}
-
-.Footer-custom h3{
-  color: #db5c24;
-  font-weight: bold;
-  text-align: center;
-}
-
-.Footer-custom .row{
-  min-height: 100px;
-}
-
-.CARNET-logo{
-  padding: 40px 0px 0px 0px;
-}
-
-.SEAT-logo{
-  width: 150px;
-  height: auto;
-}
-
-/* CORTINILLA-INFERIOR
-   =================== */
-
-.Cortinilla-inferior{
-  width: 100%;
-  position: absolute;
-  top: ;
-  right: ;
-  bottom: 0px;
-  left: ;
-}
-
-
-/*
-
 @media only screen and (max-width: 600px){
-  /* Extra small devices (phones, 600px and down) 
+  /* Extra small devices (phones, 600px and down) */
+	.contenedor{
+		background-color: white;
+		width: 100%;
+		height: 2700px;
+		margin:auto;
+		position: relative;
+	}
 
+	.faldon{
+		width: 100%;
+	}
+
+	/* CABECERA
+	   ======== */
+
+	.Cabecera{
+
+	}
+
+	/* EQUIPO
+	   ====== */
+
+	.Equipo{
+		width: 100%;
+		height: auto;
+		max-height: 29%;
+	 	margin: auto;.
+	 	position: absolute;
+	 	top: 5%;
+	 	right: ;
+	 	bottom: ;
+	 	left: ;
+	}
+
+	.Equipo .row{
+
+	}
+
+	.Equipo p{	
+	  
+	}
+
+	.nombre_universidad-equipo{
+		font-weight: bold;
+	}
+
+	.nombre_universidad-equipo h1{
+	  	/* Nombre del equipo */
+	 	 color: #db5c24;
+	  	font-weight: bold;
+	}
+
+	.nombre_universidad-equipo h3{
+	  	/* Nombre de la universidad de procedencia */
+	}
+
+	.person{
+		width: 75px !important;
+		height: 75px !important;
+	}
+
+	/* CORCORTINILLA-INFERIOR-EQUIPOS
+	   ============================== */
+
+	.Cortinilla-inferior-equipos{
+		width: 100%;
+		position: absolute;
+		top: 28%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	/* GALERIA
+	   ======= */
+
+	.Galeria{
+		width: 100%;
+		height: 400px;
+		margin: auto;
+		padding: auto;
+		position: absolute;
+		top: 29.6%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	.Galeria img{
+		width: 100%;
+		height: auto;
+		margin: auto;
+	}
+
+	.Galeria .item{
+		margin: auto;
+		padding: 0px;
+		background-color: black;
+		width: 100%;
+		height: 350px;
+	}
+
+	.Galeria h3{
+	  	color: #db5c24;
+	}
+
+	/* CABECERA-TESTIMONIOS
+	   ==================== */
+
+	.Cabecera-testimonios{
+		width: 100%;
+		position: absolute;
+		top: 42.5%;
+		right: ;
+		bottom: ;
+		left: ;
+		text-align: center;
+	}
+
+	.Cabecera-testimonios h2{
+	  	color: #db5c24;
+	 	font-weight: bold;
+	  	margin: 40px 0px 0px 40px;
+	  	position: absolute;
+	  	top: 0%;
+		right: 0%;
+	 	bottom: ;
+	  	left: 30%;
+	}
+
+	/* TESTIMONIOS
+	   =========== */
+
+	.Testimonios{
+		width: 100%;
+		position: absolute;
+		top: 47.5%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	/* FOOTER
+	   ====== */
+
+	.Footer-custom{
+	  	width: 100%;
+	 	margin: 0px 0px;
+	  	position: absolute;
+	  	top: 65%;
+	  	right: ;
+	  	bottom: ;
+	  	left: ;
+	}
+
+	.Footer-custom h3{
+	  	color: #db5c24;
+	  	font-weight: bold;
+	  	text-align: center;
+	}
+
+	.Footer-custom .row{
+	  	min-height: 100px;
+	}
+
+	.CARNET-logo{
+	  	padding: 40px 0px 0px 0px;
+	}
+
+	.SEAT-logo{
+	  	width: 150px;
+	  	height: auto;
+	}
+
+	/* CORTINILLA-INFERIOR
+	   =================== */
+
+	.Cortinilla-inferior{
+	 	width: 100%;
+	  	position: absolute;
+	  	top: ;
+	  	right: ;
+	  	bottom: 0px;
+	  	left: ;
+	}
 } 
 
 @media only screen and (min-width: 600px){
-  /* Small devices (portrait tablets and large phones, 600px and up) 
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+	.contenedor{
+		background-color: white;
+		width: 80%;
+		height: 2700px;
+		margin:auto;
+		position: relative;
+	}
 
+	.faldon{
+		width: 100%;
+	}
+
+	/* CABECERA
+	   ======== */
+
+	.Cabecera{
+
+	}
+
+	/* EQUIPO
+	   ====== */
+
+	.Equipo{
+		width: 100%;
+		height: auto;
+		max-height: 29%;
+	 	margin: auto;.
+	 	position: absolute;
+	 	top: 5%;
+	 	right: ;
+	 	bottom: ;
+	 	left: ;
+	}
+
+	.Equipo .row{
+
+	}
+
+	.Equipo p{	
+	  
+	}
+
+	.nombre_universidad-equipo{
+		font-weight: bold;
+	}
+
+	.nombre_universidad-equipo h1{
+	  	/* Nombre del equipo */
+	  	color: #db5c24;
+	  	font-weight: bold;
+	}
+
+	.nombre_universidad-equipo h3{
+	  /* Nombre de la universidad de procedencia */
+	}
+
+	/* CORCORTINILLA-INFERIOR-EQUIPOS
+	   ============================== */
+
+	.Cortinilla-inferior-equipos{
+		width: 100%;
+		position: absolute;
+		top: 34%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	/* GALERIA
+	   ======= */
+
+	.Galeria{
+		width: 100%;
+		margin: auto;
+		padding: auto;
+		position: absolute;
+		top: 40.82%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	.Galeria img{
+		width: 100%;
+		height: 900px;
+		margin: auto;
+	}
+
+	.Galeria .item{
+		margin: auto;
+		padding: 0px;
+		background-color: black;
+		width: 100%;
+		height: 700px;
+	}
+
+	.Galeria h3{
+	  	color: #db5c24;
+	}
+
+	/* CABECERA-TESTIMONIOS
+	   ==================== */
+
+	.Cabecera-testimonios{
+		width: 100%;
+		position: absolute;
+		top: 66.65%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	.Cabecera-testimonios h2{
+	  	color: white;
+	 	font-weight: bold;
+	  	margin: 40px 0px 0px 40px;
+	  	position: absolute;
+	  	top: 0px;
+		right: ;
+	 	bottom: ;
+	  	left: ;
+	}
+
+	/* TESTIMONIOS
+	   =========== */
+
+	.Testimonios{
+	  	width: 100%;
+	  	position: absolute;
+	  	top: 75%;
+	  	right: ;
+	  	bottom: ;
+	  	left: ;
+	}
+
+	/* FOOTER
+	   ====== */
+
+	.Footer-custom{
+	  	width: 100%;
+	  	margin: 0px 0px;
+	  	position: absolute;
+	  	top: 2250px;
+	  	right: ;
+	  	bottom: ;
+	  	left: ;
+	}
+
+	.Footer-custom h3{
+	  	color: #db5c24;
+	  	font-weight: bold;
+	  	text-align: center;
+	}
+
+	.Footer-custom .row{
+	  	min-height: 100px;
+	}
+
+	.CARNET-logo{
+	  	padding: 40px 0px 0px 0px;
+	}
+
+	.SEAT-logo{
+	  	width: 150px;
+	  	height: auto;
+	}
+
+	/* CORTINILLA-INFERIOR
+	   =================== */
+
+	.Cortinilla-inferior{
+	  	width: 100%;
+	  	position: absolute;
+	  	top: ;
+	  	right: ;
+	  	bottom: 0px;
+	  	left: ;
+	}
 } 
 
 @media only screen and (min-width: 768px){
-  /* Medium devices (landscape tablets, 768px and up) 
+  /* Medium devices (landscape tablets, 768px and up) */
+	.contenedor{
+		background-color: white;
+		width: 80%;
+		height: 2700px;
+		margin:auto;
+		position: relative;
+	}
 
+	.faldon{
+		width: 100%;
+	}
+
+	/* CABECERA
+	   ======== */
+
+	.Cabecera{
+
+	}
+
+	/* EQUIPO
+	   ====== */
+
+	.Equipo{
+		width: 100%;
+		height: auto;
+		max-height: 29%;
+	 	margin: auto;.
+	 	position: absolute;
+	 	top: 5%;
+	 	right: ;
+	 	bottom: ;
+	 	left: ;
+	}
+
+	.Equipo .row{
+
+	}
+
+	.Equipo p{	
+	  
+	}
+
+	.nombre_universidad-equipo{
+		font-weight: bold;
+	}
+
+	.nombre_universidad-equipo h1{
+	  	/* Nombre del equipo */
+	  	color: #db5c24;
+	  	font-weight: bold;
+	}
+
+	.nombre_universidad-equipo h3{
+	  	/* Nombre de la universidad de procedencia */
+	}
+
+	/* CORCORTINILLA-INFERIOR-EQUIPOS
+	   ============================== */
+
+	.Cortinilla-inferior-equipos{
+		width: 100%;
+		position: absolute;
+		top: 34%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	/* GALERIA
+	   ======= */
+
+	.Galeria{
+		width: 100%;
+		margin: auto;
+		padding: auto;
+		position: absolute;
+		top: 40.82%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	.Galeria img{
+		width: 100%;
+		height: 900px;
+		margin: auto;
+	}
+
+	.Galeria .item{
+		margin: auto;
+		padding: 0px;
+		background-color: black;
+		width: 100%;
+		height: 700px;
+	}
+
+	.Galeria h3{
+	  	color: #db5c24;
+	}
+
+	/* CABECERA-TESTIMONIOS
+	   ==================== */
+
+	.Cabecera-testimonios{
+		width: 100%;
+		position: absolute;
+		top: 66.65%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	.Cabecera-testimonios h2{
+	  	color: white;
+	 	font-weight: bold;
+	  	margin: 40px 0px 0px 40px;
+	  	position: absolute;
+	  	top: 0px;
+		right: ;
+	 	bottom: ;
+	  	left: ;
+	}
+
+	/* TESTIMONIOS
+	   =========== */
+
+	.Testimonios{
+	  	width: 100%;
+	  	position: absolute;
+	  	top: 75%;
+	  	right: ;
+	  	bottom: ;
+	  	left: ;
+	}
+
+	/* FOOTER
+	   ====== */
+
+	.Footer-custom{
+	  	width: 100%;
+	  	margin: 0px 0px;
+	  	position: absolute;
+	  	top: 2250px;
+	  	right: ;
+	  	bottom: ;
+	  	left: ;
+	}
+
+	.Footer-custom h3{
+	  	color: #db5c24;
+	  	font-weight: bold;
+	  	text-align: center;
+	}
+
+	.Footer-custom .row{
+	  	min-height: 100px;
+	}
+
+	.CARNET-logo{
+	  	padding: 40px 0px 0px 0px;
+	}
+
+	.SEAT-logo{
+	  	width: 150px;
+	  	height: auto;
+	}
+
+	/* CORTINILLA-INFERIOR
+	   =================== */
+
+	.Cortinilla-inferior{
+	  	width: 100%;
+	  	position: absolute;
+	  	top: ;
+	  	right: ;
+	  	bottom: 0px;
+	  	left: ;
+	}
 } 
 
 @media only screen and (min-width: 992px){
-  /* Large devices (laptops/desktops, 992px and up) 
- 
+  /* Large devices (laptops/desktops, 992px and up) */
+ 	.contenedor{
+		background-color: white;
+		width: 80%;
+		height: 2700px;
+		margin:auto;
+		position: relative;
+	}
+
+	.faldon{
+		width: 100%;
+	}
+
+	/* CABECERA
+	   ======== */
+
+	.Cabecera{
+
+	}
+
+	/* EQUIPO
+	   ====== */
+
+	.Equipo{
+		width: 100%;
+		height: auto;
+		max-height: 29%;
+	 	margin: auto;.
+	 	position: absolute;
+	 	top: 5%;
+	 	right: ;
+	 	bottom: ;
+	 	left: ;
+	}
+
+	.Equipo .row{
+
+	}
+
+	.Equipo p{	
+	  
+	}
+
+	.nombre_universidad-equipo{
+		font-weight: bold;
+	}
+
+	.nombre_universidad-equipo h1{
+	 	/* Nombre del equipo */
+	  	color: #db5c24;
+	  	font-weight: bold;
+	}
+
+	.nombre_universidad-equipo h3{
+	  	/* Nombre de la universidad de procedencia */
+	}
+
+	/* CORCORTINILLA-INFERIOR-EQUIPOS
+	   ============================== */
+
+	.Cortinilla-inferior-equipos{
+		width: 100%;
+		position: absolute;
+		top: 34%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	/* GALERIA
+	   ======= */
+
+	.Galeria{
+		width: 100%;
+		margin: auto;
+		padding: auto;
+		position: absolute;
+		top: 40.82%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	.Galeria img{
+		width: 100%;
+		height: 900px;
+		margin: auto;
+	}
+
+	.Galeria .item{
+		margin: auto;
+		padding: 0px;
+		background-color: black;
+		width: 100%;
+		height: 700px;
+	}
+
+	.Galeria h3{
+	  	color: #db5c24;
+	}
+
+	/* CABECERA-TESTIMONIOS
+	   ==================== */
+
+	.Cabecera-testimonios{
+		width: 100%;
+		position: absolute;
+		top: 66.65%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	.Cabecera-testimonios h2{
+	  	color: white;
+	 	font-weight: bold;
+	  	margin: 40px 0px 0px 40px;
+	  	position: absolute;
+	  	top: 0px;
+		right: ;
+	 	bottom: ;
+	  	left: ;
+	}
+
+	/* TESTIMONIOS
+	   =========== */
+
+	.Testimonios{
+	  width: 100%;
+	  position: absolute;
+	  top: 75%;
+	  right: ;
+	  bottom: ;
+	  left: ;
+	}
+
+	/* FOOTER
+	   ====== */
+
+	.Footer-custom{
+	  width: 100%;
+	  margin: 0px 0px;
+	  position: absolute;
+	  top: 2250px;
+	  right: ;
+	  bottom: ;
+	  left: ;
+	}
+
+	.Footer-custom h3{
+	  color: #db5c24;
+	  font-weight: bold;
+	  text-align: center;
+	}
+
+	.Footer-custom .row{
+	  min-height: 100px;
+	}
+
+	.CARNET-logo{
+	  padding: 40px 0px 0px 0px;
+	}
+
+	.SEAT-logo{
+	  width: 150px;
+	  height: auto;
+	}
+
+	/* CORTINILLA-INFERIOR
+	   =================== */
+
+	.Cortinilla-inferior{
+	  width: 100%;
+	  position: absolute;
+	  top: ;
+	  right: ;
+	  bottom: 0px;
+	  left: ;
+	}
 } 
 
 @media only screen and (min-width: 1200px){
-  /* Extra large devices (large laptops and desktops, 1200px and up) 
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+	.contenedor{
+		background-color: white;
+		width: 80%;
+		height: 2700px;
+		margin:auto;
+		position: relative;
+	}
 
+	.faldon{
+		width: 100%;
+	}
+
+	/* CABECERA
+	   ======== */
+
+	.Cabecera{
+
+	}
+
+	/* EQUIPO
+	   ====== */
+
+	.Equipo{
+		width: 100%;
+		height: auto;
+		max-height: 29%;
+	 	margin: auto;.
+	 	position: absolute;
+	 	top: 5%;
+	 	right: ;
+	 	bottom: ;
+	 	left: ;
+	}
+
+	.Equipo .row{
+
+	}
+
+	.Equipo p{	
+	  
+	}
+
+	.nombre_universidad-equipo{
+		font-weight: bold;
+	}
+
+	.nombre_universidad-equipo h1{
+	  	/* Nombre del equipo */
+	  	color: #db5c24;
+	  	font-weight: bold;
+	}
+
+	.nombre_universidad-equipo h3{
+	  /* Nombre de la universidad de procedencia */
+	}
+
+	/* CORCORTINILLA-INFERIOR-EQUIPOS
+	   ============================== */
+
+	.Cortinilla-inferior-equipos{
+		width: 100%;
+		position: absolute;
+		top: 34%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	/* GALERIA
+	   ======= */
+
+	.Galeria{
+		width: 100%;
+		margin: auto;
+		padding: auto;
+		position: absolute;
+		top: 40.82%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	.Galeria img{
+		width: 100%;
+		height: 900px;
+		margin: auto;
+	}
+
+	.Galeria .item{
+		margin: auto;
+		padding: 0px;
+		background-color: black;
+		width: 100%;
+		height: 700px;
+	}
+
+	.Galeria h3{
+	  	color: #db5c24;
+	}
+
+	/* CABECERA-TESTIMONIOS
+	   ==================== */
+
+	.Cabecera-testimonios{
+		width: 100%;
+		position: absolute;
+		top: 66.65%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	.Cabecera-testimonios h2{
+	  	color: white;
+	 	font-weight: bold;
+	  	margin: 40px 0px 0px 40px;
+	  	position: absolute;
+	  	top: 0px;
+		right: ;
+	 	bottom: ;
+	  	left: ;
+	}
+
+	/* TESTIMONIOS
+	   =========== */
+
+	.Testimonios{
+	  	width: 100%;
+	  	position: absolute;
+	  	top: 75%;
+	  	right: ;
+	  	bottom: ;
+	  	left: ;
+	}
+
+	/* FOOTER
+	   ====== */
+
+	.Footer-custom{
+	  	width: 100%;
+	  	margin: 0px 0px;
+	  	position: absolute;
+	  	top: 2250px;
+	  	right: ;
+	 	bottom: ;
+	  	left: ;
+	}
+
+	.Footer-custom h3{
+	  	color: #db5c24;
+	  	font-weight: bold;
+	  	text-align: center;
+	}
+
+	.Footer-custom .row{
+	  	min-height: 100px;
+	}
+
+	.CARNET-logo{
+	  	padding: 40px 0px 0px 0px;
+	}
+
+	.SEAT-logo{
+	 	width: 150px;
+	  	height: auto;
+	}
+
+	/* CORTINILLA-INFERIOR
+	   =================== */
+
+	.Cortinilla-inferior{
+	  	width: 100%;
+	  	position: absolute;
+	  	top: ;
+	  	right: ;
+	  	bottom: 0px;
+	  	left: ;
+	}
 }
 
 @media only screen and (orientation: landscape){
-  /* Only apply when the browser window is wider than its height 
-  
-}
+  /* Only apply when the browser window is wider than its height */
+  .contenedor{
+		background-color: white;
+		width: 80%;
+		height: 2700px;
+		margin:auto;
+		position: relative;
+	}
 
-*/
+	.faldon{
+		width: 100%;
+	}
+
+	/* CABECERA
+	   ======== */
+
+	.Cabecera{
+
+	}
+
+	/* EQUIPO
+	   ====== */
+
+	.Equipo{
+		width: 100%;
+		height: auto;
+		max-height: 29%;
+	 	margin: auto;.
+	 	position: absolute;
+	 	top: 5%;
+	 	right: ;
+	 	bottom: ;
+	 	left: ;
+	}
+
+	.Equipo .row{
+
+	}
+
+	.Equipo p{	
+	  
+	}
+
+	.nombre_universidad-equipo{
+		font-weight: bold;
+	}
+
+	.nombre_universidad-equipo h1{
+	  /* Nombre del equipo */
+	  color: #db5c24;
+	  font-weight: bold;
+	}
+
+	.nombre_universidad-equipo h3{
+	  /* Nombre de la universidad de procedencia */
+	}
+
+	/* CORCORTINILLA-INFERIOR-EQUIPOS
+	   ============================== */
+
+	.Cortinilla-inferior-equipos{
+		width: 100%;
+		position: absolute;
+		top: 34%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	/* GALERIA
+	   ======= */
+
+	.Galeria{
+		width: 100%;
+		margin: auto;
+		padding: auto;
+		position: absolute;
+		top: 40.82%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	.Galeria img{
+		width: 100%;
+		height: 900px;
+		margin: auto;
+	}
+
+	.Galeria .item{
+		margin: auto;
+		padding: 0px;
+		background-color: black;
+		width: 100%;
+		height: 700px;
+	}
+
+	.Galeria h3{
+	  color: #db5c24;
+	}
+
+	/* CABECERA-TESTIMONIOS
+	   ==================== */
+
+	.Cabecera-testimonios{
+		width: 100%;
+		position: absolute;
+		top: 66.65%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	.Cabecera-testimonios h2{
+	  	color: white;
+	 	font-weight: bold;
+	  	margin: 40px 0px 0px 40px;
+	  	position: absolute;
+	  	top: 0px;
+		right: ;
+	 	bottom: ;
+	  	left: ;
+	}
+
+	/* TESTIMONIOS
+	   =========== */
+
+	.Testimonios{
+	  	width: 100%;
+	  	position: absolute;
+	  	top: 75%;
+	  	right: ;
+	  	bottom: ;
+	  	left: ;
+	}
+
+	/* FOOTER
+	   ====== */
+
+	.Footer-custom{
+	  	width: 100%;
+	  	margin: 0px 0px;
+	  	position: absolute;
+	  	top: 2250px;
+	  	right: ;
+	  	bottom: ;
+	  	left: ;
+	}
+
+	.Footer-custom h3{
+	  	color: #db5c24;
+	  	font-weight: bold;
+	  	text-align: center;
+	}
+
+	.Footer-custom .row{
+	 	min-height: 100px;
+	}
+
+	.CARNET-logo{
+	  	padding: 40px 0px 0px 0px;
+	}
+
+	.SEAT-logo{
+	  	width: 150px;
+	  	height: auto;
+	}
+
+	/* CORTINILLA-INFERIOR
+	   =================== */
+
+	.Cortinilla-inferior{
+	  	width: 100%;
+	  	position: absolute;
+	  	top: ;
+	  	right: ;
+	  	bottom: 0px;
+	  	left: ;
+	}
+}
