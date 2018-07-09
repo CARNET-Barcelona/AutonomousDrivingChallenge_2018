@@ -174,19 +174,21 @@ body{
 	}
 
 	.Footer-custom .row{
+		width: 100%;
 	  	min-height: 100px;
 	}
-
+	
 	.CARNET-logo{
-		width: 130px;
+		width: 200px;
 		height: auto;
+		margin: 100px 0px 0px 0px;
 	  	padding: 40px 0px 0px 0px;
 	}
 
 	.SEAT-logo{
-	  	width: 100px;
+	  	width: 150px;
 	  	height: auto;
-	  	height: auto;
+	  	margin: 150px 0px 0px 0px;
 	}
 
 	/* CORTINILLA-INFERIOR
@@ -723,16 +725,18 @@ body{
 	}
 
 	.Footer-custom .row{
-	  min-height: 100px;
+	 	 min-height: 100px;
 	}
 
 	.CARNET-logo{
-	  padding: 40px 0px 0px 0px;
+		margin: 0px 0px 0px 350px;
+	  	padding: 40px 0px 0px 0px;
 	}
 
 	.SEAT-logo{
-	  width: 150px;
-	  height: auto;
+		margin: 0px 0px 0px 450px;
+	  	width: 150px;
+	  	height: auto;
 	}
 
 	/* CORTINILLA-INFERIOR
