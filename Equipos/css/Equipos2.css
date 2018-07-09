@@ -178,11 +178,14 @@ body{
 	}
 
 	.CARNET-logo{
+		width: 130px;
+		height: auto;
 	  	padding: 40px 0px 0px 0px;
 	}
 
 	.SEAT-logo{
-	  	width: 150px;
+	  	width: 100px;
+	  	height: auto;
 	  	height: auto;
 	}
 
