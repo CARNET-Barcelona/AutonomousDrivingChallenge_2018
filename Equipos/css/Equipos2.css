@@ -553,6 +553,7 @@ body{
 	.SEAT-logo{
 	  	width: 150px;
 	  	height: auto;
+	  	margin: 50px 0px 0px 0px;
 	}
 
 	/* CORTINILLA-INFERIOR
@@ -751,6 +752,191 @@ body{
 	  left: ;
 	}
 } 
+
+@media only screen and (width: 1024px){
+  /* IPAD PRO */
+ 	.contenedor{
+		background-color: white;
+		width: 80%;
+		height: 2700px;
+		margin:auto;
+		position: relative;
+	}
+
+	.faldon{
+		width: 100%;
+	}
+
+	/* CABECERA
+	   ======== */
+
+	.Cabecera{
+
+	}
+
+	/* EQUIPO
+	   ====== */
+
+	.Equipo{
+		width: 100%;
+		height: auto;
+		max-height: 29%;
+	 	margin: auto;.
+	 	position: absolute;
+	 	top: 5%;
+	 	right: ;
+	 	bottom: ;
+	 	left: ;
+	}
+
+	.Equipo .row{
+
+	}
+
+	.Equipo p{	
+	  
+	}
+
+	.nombre_universidad-equipo{
+		font-weight: bold;
+	}
+
+	.nombre_universidad-equipo h1{
+	 	/* Nombre del equipo */
+	  	color: #db5c24;
+	  	font-weight: bold;
+	}
+
+	.nombre_universidad-equipo h3{
+	  	/* Nombre de la universidad de procedencia */
+	}
+
+	/* CORCORTINILLA-INFERIOR-EQUIPOS
+	   ============================== */
+
+	.Cortinilla-inferior-equipos{
+		width: 100%;
+		position: absolute;
+		top: 34%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	/* GALERIA
+	   ======= */
+
+	.Galeria{
+		width: 100%;
+		margin: auto;
+		padding: auto;
+		position: absolute;
+		top: 40.82%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	.Galeria img{
+		width: 100%;
+		height: 900px;
+		margin: auto;
+	}
+
+	.Galeria .item{
+		margin: auto;
+		padding: 0px;
+		background-color: black;
+		width: 100%;
+		height: 700px;
+	}
+
+	.Galeria h3{
+	  	color: #db5c24;
+	}
+
+	/* CABECERA-TESTIMONIOS
+	   ==================== */
+
+	.Cabecera-testimonios{
+		width: 100%;
+		position: absolute;
+		top: 66.65%;
+		right: ;
+		bottom: ;
+		left: ;
+	}
+
+	.Cabecera-testimonios h2{
+	  	color: white;
+	 	font-weight: bold;
+	  	margin: 40px 0px 0px 40px;
+	  	position: absolute;
+	  	top: 0px;
+		right: ;
+	 	bottom: ;
+	  	left: ;
+	}
+
+	/* TESTIMONIOS
+	   =========== */
+
+	.Testimonios{
+	  width: 100%;
+	  position: absolute;
+	  top: 75%;
+	  right: ;
+	  bottom: ;
+	  left: ;
+	}
+
+	/* FOOTER
+	   ====== */
+
+	.Footer-custom{
+	  width: 100%;
+	  margin: 0px 0px;
+	  position: absolute;
+	  top: 2250px;
+	  right: ;
+	  bottom: ;
+	  left: ;
+	}
+
+	.Footer-custom h3{
+	  color: #db5c24;
+	  font-weight: bold;
+	  text-align: center;
+	}
+
+	.Footer-custom .row{
+	 	 min-height: 100px;
+	}
+
+	.CARNET-logo{
+		margin: 0px 0px 0px 150px;
+	  	padding: 40px 0px 0px 0px;
+	}
+
+	.SEAT-logo{
+		margin: 0px 0px 0px 250px;
+	  	width: 150px;
+	  	height: auto;
+	}
+
+	/* CORTINILLA-INFERIOR
+	   =================== */
+
+	.Cortinilla-inferior{
+	  width: 100%;
+	  position: absolute;
+	  top: ;
+	  right: ;
+	  bottom: 0px;
+	  left: ;
+	}
+} 
+
 
 @media only screen and (min-width: 1200px){
   /* Extra large devices (large laptops and desktops, 1200px and up) */
