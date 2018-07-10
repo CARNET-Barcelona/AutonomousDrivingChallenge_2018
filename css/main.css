@@ -1,0 +1,117 @@
+/* GENERAL
+   ======= */
+*{
+	margin: 0px;
+	padding: 0px;
+   border: 0px;
+}
+
+body{
+   background-color: white;
+}
+
+.Padre{
+   width: 100%;
+   height: ;
+   background-color: #db5c24;
+   position: relative;
+   top: 60px;
+   right: ;
+   bottom: ;
+   left: ;
+   margin: 10px 10px 10px 10px;
+}
+
+/* MENU
+   ==== */
+
+/* ADC 
+   === */
+
+/* PARTICIPANTES 
+   ============= */
+
+/* RECURSOS 
+   ======== */
+
+/* ORGANIZADORES
+   ============= */
+
+
+/* FOOTER
+   ======*/
+.Padre .Footer{
+   width: 1800px;
+   position: absolute;
+   top: 4000px;
+   right: ;
+   bottom: 0px;
+   left: 50%;
+   transform: translate(-50%, 0);
+   }
+
+#Direccion_1{
+   /* Carrer Jordi Girona, 31 */
+   color: black;
+}
+
+#Direccion_1:hover{
+   /* Carrer Jordi Girona, 31 */
+   color: #db5c24;
+   font-weight: bold;
+}
+
+#Direccion_2{
+   /* Edifci Til·lers, Barcelona */
+   color: black;
+}
+
+#Direccion_2:hover{
+   /* Edifci Til·lers, Barcelona */
+   color: #db5c24;
+   font-weight: bold;
+}
+
+#Telefono{
+   /* +34 93 413 76 04 */
+   color: black;
+   font-weight: bold;
+}
+
+#Telefono:hover{
+   /* +34 93 413 76 04 */
+   color: #db5c24;
+   font-weight: bold;
+}
+
+#Info-CARNET a{
+   /* info@carnetbarcelona */
+   color: #db5c24;
+}
+
+#Info-CARNET a:hover{
+   /* info@carnetbarcelona */
+   color: #db5c24;
+   font-weight: bold;
+}
+
+#CARNET-Web a{
+   /* www.carnet.barcelona */
+   color: #db5c24;
+}
+
+#CARNET-Web a:hover{
+   /* www.carnet.barcelona */
+   color: #db5c24;
+   font-weight: bold;
+}
+
+.Padre .Footer .Boton_gordo{
+	color: white;
+	background-color: #db5c24;
+}
+
+#Icono{
+	color: #db5c24;
+}
+
