@@ -7,19 +7,30 @@
 }
 
 body{
-   background-color: white;
+   background-color: grey;
+   align-items: center; 
 }
 
 .Padre{
-   width: 100%;
-   height: ;
-   background-color: #db5c24;
+   width: 80%;
+   height: auto;
+   background-color: white;
    position: relative;
    top: 60px;
    right: ;
    bottom: ;
    left: ;
-   margin: 10px 10px 10px 10px;
+   margin: auto;
+}
+
+
+.Cortinilla img{
+   width: 100%;
+   position: relative;
+   top: ;
+   right: ;
+   bottom:  ;
+   left: ;
 }
 
 /* MENU
@@ -27,91 +38,354 @@ body{
 
 /* ADC 
    === */
+.ADC{
+   width: 100%;
+   position: relative;
+   top: 5%;
+}
+   
+   .Cabecera{
+      
+   }   
+
+      .Cabecera .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+   
+      .Titulo{
+
+      }
+
+      .Coche_cabecera{
+         width: 100%;
+      }
+
+   .Intro{
+      background-color: black;
+      color: white;
+      height: 100px;
+   }    
+
+   .Parte_1{
+      height: 300px;
+   }
+
+      .Parte_1 .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+           
+   .Separador_1{
+   
+   }
+
+       .Separador_1 .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+      
+      .Coche-separador-1{
+            /* Imágen de coche en el separador 1 */
+            width: 100%;
+            height: auto;
+      }
+       .Separador_1 .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+        
+
+   .Parte_2{
+      width: 100%; 
+      height: 400px;
+      background-color: black;
+      color: white;
+   }
+           
+   .Evento_Final{
+
+   }         
+
+      .Evento_Final .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Evento_Final .Texto-Evento_Final{
+         width: 300px;
+      }
+           
+      .Evento_Final .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+
+   .Separador_2{
+
+   }
+
+      .Separador_2 img{
+         width: 100%;
+      }
+           
+   .Desafios{
+      height: 500px;
+   }
+      
+      .Desafios .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+   .Calendario{
+      height: 600px;
+   }
+
+      .Calendario .Calendario-Titulo{
+         height: 100px;
+         background-color: black;
+         color: white;
+         position: relative; 
+         top: 0%;
+      }
+
+   .Ediciones_Pasadas{
+         height: 600px;
+   }
+
+      .Ediciones_Pasadas .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
 
 /* PARTICIPANTES 
    ============= */
+.Participantes{
+
+}
+
+   .Equipos{
+      height: 1000px; 
+   }
+   
+      .Equipos .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+
 
 /* RECURSOS 
    ======== */
+.Recursos{
+
+}
+
+   .Entrenamiento{
+      height: 600px; 
+   }
+
+      .Entrenamiento .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+
+
+      .Entrenamiento .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+
+   .Separador_3{
+   
+   }
+      .Separador_3 img{
+         width: 100%;
+         height: auto;
+      }
+
+   .Material{
+      
+   }
+
+      .Material .Titulo-Material{
+         height: 150px; 
+      }
+      
+      .Material .Material-Cuerpo{
+         height: 400px;
+         background-color: black;
+         color: white;
+      }
+
+   .Lugar{
+      height: 600px;
+   }
+
+   .Comunidad{
+
+   }
+
+      .Comunidad .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+   
+      .Comunidad .Comunidad-Cuerpo{
+            height: 500px;    
+      }
 
 /* ORGANIZADORES
    ============= */
+.Organizadores{
 
+}
+
+   .Organizadores .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+   }
+
+   .Organizadores .Organizadores-Cuerpo{
+      height: 500px; 
+   }
+
+   .Organizadores .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
 
 /* FOOTER
    ======*/
-.Padre .Footer{
-   width: 1800px;
+.Footer{
+   width: 100%;
    position: absolute;
-   top: 4000px;
+   top: calc(1000-500);
    right: ;
-   bottom: 0px;
+   bottom: ;
    left: 50%;
    transform: translate(-50%, 0);
    }
 
-#Direccion_1{
-   /* Carrer Jordi Girona, 31 */
-   color: black;
-}
+   #Direccion_1{
+      /* Carrer Jordi Girona, 31 */
+      color: black;
+   }
 
-#Direccion_1:hover{
-   /* Carrer Jordi Girona, 31 */
-   color: #db5c24;
-   font-weight: bold;
-}
+   #Direccion_1:hover{
+      /* Carrer Jordi Girona, 31 */
+      color: #db5c24;
+      font-weight: bold;
+   }
 
-#Direccion_2{
-   /* Edifci Til·lers, Barcelona */
-   color: black;
-}
+   #Direccion_2{
+      /* Edifci Til·lers, Barcelona */
+      color: black;
+   }
 
-#Direccion_2:hover{
-   /* Edifci Til·lers, Barcelona */
-   color: #db5c24;
-   font-weight: bold;
-}
+   #Direccion_2:hover{
+      /* Edifci Til·lers, Barcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
 
-#Telefono{
-   /* +34 93 413 76 04 */
-   color: black;
-   font-weight: bold;
-}
+   #Telefono{
+      /* +34 93 413 76 04 */
+      color: black;
+      font-weight: bold;
+   }
 
-#Telefono:hover{
-   /* +34 93 413 76 04 */
-   color: #db5c24;
-   font-weight: bold;
-}
+   #Telefono:hover{
+      /* +34 93 413 76 04 */
+      color: #db5c24;
+      font-weight: bold;
+   }
 
-#Info-CARNET a{
-   /* info@carnetbarcelona */
-   color: #db5c24;
-}
+   #Info-CARNET a{
+      /* info@carnetbarcelona */
+      color: #db5c24;
+   }
 
-#Info-CARNET a:hover{
-   /* info@carnetbarcelona */
-   color: #db5c24;
-   font-weight: bold;
-}
+   #Info-CARNET a:hover{
+      /* info@carnetbarcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
 
-#CARNET-Web a{
-   /* www.carnet.barcelona */
-   color: #db5c24;
-}
+   #CARNET-Web a{
+      /* www.carnet.barcelona */
+      color: #db5c24;
+   }
 
-#CARNET-Web a:hover{
-   /* www.carnet.barcelona */
-   color: #db5c24;
-   font-weight: bold;
-}
+   #CARNET-Web a:hover{
+      /* www.carnet.barcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
 
-.Padre .Footer .Boton_gordo{
-	color: white;
-	background-color: #db5c24;
-}
+   .Padre .Footer .Boton_gordo{
+   	color: white;
+   	background-color: #db5c24;
+   }
 
-#Icono{
-	color: #db5c24;
-}
+   #Icono{
+   	color: #db5c24;
+   }
 
