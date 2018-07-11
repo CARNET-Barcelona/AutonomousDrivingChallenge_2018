@@ -475,18 +475,27 @@ body{
          height: 400px;
          background-color: black;
          color: white;
+         display: block;
       }
 
-      .Material .Material-Elementos{
-         padding: 30px;
-         font-size: 50px;
-      }
-      
-      .Material .Material-Elementos:hover{
-         color: #db5c24;
-         padding: 30px;
-         font-size: 50px;
-      }
+         .Material .Material-Cuerpo .Material-fila_1{
+         }
+
+         .Material .Material-Cuerpo .Material-fila_2{
+         }
+
+            .Material .Material-Cuerpo .Material-Elementos{
+               position: relative;
+               font-size: 50px;
+               width: 40%;
+               margin: 50px 50px;
+            }
+            
+            .Material .Material-Cuerpo .Material-Elementos:hover{
+               color: #db5c24;
+               font-size: 50px;
+               margin: 50px;
+            }
 
    .Lugar{
       height: 600px;
