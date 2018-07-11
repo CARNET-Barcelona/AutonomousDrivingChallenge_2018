@@ -245,6 +245,73 @@ body{
       
       }
 
+      .Calendario .Calendario-Cuerpo .Calendario-Cuerpo-Elementos{
+         margin: 100px;
+      }
+
+         .Item_1-Calendario{
+            height: 80%;
+         }
+
+         .Item_2-Calendario{
+            height: 80%;
+         }
+
+         .Item_3-Calendario{
+            height: 80%;
+         }
+
+         .Calendario .Item_1-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_1-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_1-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 130px;
+            color: white;
+         }
+
+         .Calendario .Item_2-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_2-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_2-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 100px;
+            color: white;
+         }
+
+         .Calendario .Item_3-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_3-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_3-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 100px;
+            color: white;
+         }
+
    .Ediciones_Pasadas{
    }
 
