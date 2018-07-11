@@ -715,3 +715,4942 @@ body{
    	color: #db5c24;
    }
 
+@media only screen and (max-width: 600px){
+  /* Extra small devices (phones, 600px and down) */
+
+*{
+   margin: 0px;
+   padding: 0px;
+   border: 0px;
+}
+
+body{
+   background-color: #888888;
+   align-items: center; 
+   width: 600px;
+}
+
+.Padre{
+   width: 600px;
+   height: auto;
+   background-color: white;
+   position: relative;
+   top: 60px;
+   right: ;
+   bottom: ;
+   left: ;
+}
+
+
+.Cortinilla img{
+   width: 100%;
+   position: relative;
+   top: ;
+   right: ;
+   bottom:  ;
+   left: ;
+}
+
+.navbar-dark{
+   width: 100%;
+}
+/* ADC 
+   === */
+.ADC{
+   width: 100%;
+   position: relative;
+   top: 5%;
+}
+   
+   .Cabecera{
+      
+   }   
+
+      .Cabecera .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+   
+      .Cabecera .Titulo{
+         position: absolute;
+         top: 0%;
+      }
+      
+      .Cabecera img.Titulo{
+         padding-top: 1.4%;
+         padding-left: 2.5%;
+      }
+
+      .Cabecera .Coche_cabecera{
+         width: 100%;
+      }
+
+   .Intro{
+      background-color: black;
+      color: white;
+      height: 100px;
+   }    
+
+   .Parte_1{
+      height: 400px;
+   }
+
+      .Parte_1 .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Parte_1 .Parte_1-Titulo{
+         position: absolute;
+         color: white; 
+         font-weight: bold;
+         font-size: 30px;
+         padding-top: 50px;
+         padding-left: 50px; 
+      }
+      
+      .Parte_1 .Parte_1-Cuerpo{
+         position: relative;
+         top: 200px;
+      }
+
+   .Separador_1{
+   
+   }
+
+       .Separador_1 .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+      
+      .Coche-separador-1{
+            /* Imágen de coche en el separador 1 */
+            width: 100%;
+            height: auto;
+      }
+
+      .Separador_1 .Cortinilla_inf{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+        
+
+   .Parte_2{
+      width: 100%; 
+      background-color: black;
+      color: white;
+   }
+
+      .Parte_2 .Parte_2-texto{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Parte_2 .Separador{
+         height: 100px;
+      }
+
+   .Evento_Final{
+
+   }         
+
+      .Evento_Final .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Evento_Final .Evento_Final-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Evento_Final .Texto-Evento_Final{
+         margin: 0px 30px 0px 30px;
+      }
+           
+      .Evento_Final .Texto-Evento_Final .Separador{
+         height: 50px;
+      }
+
+      .Evento_Final .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+
+   .Separador_2{
+
+   }
+
+      .Separador_2 img{
+         width: 100%;
+      }
+           
+   .Desafios{
+
+   }
+      
+      .Desafios .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+      
+      .Desafios .Desafios-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Desafios .Desafios-Cuerpo{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Desafios .Desafios-Separador{
+         height: 20px;
+      }
+
+   .Calendario{
+      height: 600px;
+   }
+
+      .Calendario .Calendario-Titulo{
+         height: 100px;
+         background-color: black;
+         color: white;
+         font-weight: bold;
+         font-size: 30px;
+         position: relative; 
+         top: 0%;
+         padding-top: 20px;
+      }
+
+      .Calendario .Calendario-Cuerpo{
+      
+      }
+
+      .Calendario .Calendario-Cuerpo .Calendario-Cuerpo-Elementos{
+         margin: 100px;
+      }
+
+         .Item_1-Calendario{
+            height: 80%;
+         }
+
+         .Item_2-Calendario{
+            height: 80%;
+         }
+
+         .Item_3-Calendario{
+            height: 80%;
+         }
+
+         .Calendario .Item_1-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_1-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_1-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 130px;
+            color: white;
+         }
+
+         .Calendario .Item_2-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_2-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_2-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 100px;
+            color: white;
+         }
+
+         .Calendario .Item_3-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_3-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_3-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 100px;
+            color: white;
+         }
+
+   .Ediciones_Pasadas{
+   }
+
+      .Ediciones_Pasadas .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Cuerpo{
+         height: 950px;
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Separador{
+         height: 50px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Video{
+            margin: 100px 100px 100px 325px;
+            display:block;
+      }
+
+      
+
+/* PARTICIPANTES 
+   ============= */
+.Participantes{
+
+}
+
+   .Equipos{
+   }
+   
+      .Equipos .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Equipos .Equipos-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Equipos .Equipos-Cuerpo{
+            min-height: 550px;
+      }
+         .Equipos .Equipos-Cuerpo .Equipos-Lista{
+               width: 80%;
+               margin: auto;
+               align-items: center;
+               padding: 10px;
+         }
+
+
+            .list-group-item{
+               background-color: black !important;
+               font-weight: bold !important;
+               font-size: 20px;
+               color: white !important;
+               padding: 10px 0px 10px 0px !important; 
+               margin: 10px; 
+            }
+
+            .list-group-item:hover{
+               background-color: black !important;
+               font-weight: bold !important;
+               font-size: 25px;
+               color: #db5c24 !important;
+               padding: 10px 0px 10px 0px !important; 
+            }
+
+/* RECURSOS 
+   ======== */
+.Recursos{
+
+}
+
+   .Entrenamiento{
+      height: 600px; 
+   }
+
+      .Entrenamiento .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+
+      .Entrenamiento .Entrenamiento-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Entrenamiento .Entrenamiento-Cuerpo{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Entrenemiento .Entrenamiento-Cortinilla{
+         height: 50px;
+      }
+
+      .Entrenamiento .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 10%;
+            left: ;
+      }
+
+   .Separador_3{
+   
+   }
+      .Separador_3 img{
+         width: 100%;
+         height: auto;
+      }
+
+   .Material{
+      
+   }
+
+      .Material .Titulo-Material{
+         height: 150px; 
+         font-weight: bold;
+         font-size: 30px;
+         padding-top: 50px;
+      }
+      
+      .Material .Material-Cuerpo{
+         height: 400px;
+         background-color: black;
+         color: white;
+         display: block;
+      }
+
+         .Material .Material-Cuerpo .Material-fila_1{
+         }
+
+         .Material .Material-Cuerpo .Material-fila_2{
+         }
+
+            .Material .Material-Cuerpo .Material-Elementos{
+               position: relative;
+               font-size: 50px;
+               width: 40%;
+               margin: 50px 50px;
+            }
+            
+            .Material .Material-Cuerpo .Material-Elementos:hover{
+               color: #db5c24;
+               font-size: 50px;
+               margin: 50px;
+            }
+
+   .Lugar{
+      height: 600px;
+   }
+
+   .Comunidad{
+
+   }
+
+      .Comunidad .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+   
+      .Comunidad .Comunidad-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+      .Comunidad .Comunidad-Cuerpo{
+            height: 500px;    
+            margin: 0px 30px 0px 30px;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1{
+            height: 25%;
+            width: 80%;
+            margin: auto;
+            background-color: white;
+      }
+      
+      .Comunidad .Comunidad-Cuerpo a.Comunidad-Cuerpo-Fila_1{
+         color: #db5c24;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1 .btn{
+            background-color: #db5c24;
+            color: white;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+            border-color: #db5c24;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1 .btn:hover{
+            background-color: red;
+            color: white;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+            border-color: red;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Separador{
+            height: 10%;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2{
+            height: 25%;
+            width: 80%;
+            margin: auto;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2 #Icono{
+            color: #db5c24;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2 #Icono:hover{
+            color: red;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+      }
+
+/* ORGANIZADORES
+   ============= */
+.Organizadores{
+
+}
+
+      .Organizadores .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+
+      .Organizadores .Organizadores-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Organizadores .Organizadores-Cuerpo{
+         height: 500px; 
+         margin: 0px 30px 0px 30px;
+      }  
+
+      .Organizadores .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+
+      .Organizadores .Organizadores-Separador{
+         height: 50px;
+      }
+
+      .Organizadores .Organizadores-SEAT{
+         width: 100px;
+         height: auto;
+         margin: 30px;
+      }
+
+      .Organizadores .Organizadores-CARNET{
+         margin: 30px;
+      }
+
+/* FOOTER
+   ======*/
+.Footer{
+   width: 100%;
+   position: absolute;
+   top: calc(1000-500);
+   right: ;
+   bottom: ;
+   left: 50%;
+   transform: translate(-50%, 0);
+   }
+
+   #Direccion_1{
+      /* Carrer Jordi Girona, 31 */
+      color: black;
+   }
+
+   #Direccion_1:hover{
+      /* Carrer Jordi Girona, 31 */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Direccion_2{
+      /* Edifci Til·lers, Barcelona */
+      color: black;
+   }
+
+   #Direccion_2:hover{
+      /* Edifci Til·lers, Barcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Telefono{
+      /* +34 93 413 76 04 */
+      color: black;
+      font-weight: bold;
+   }
+
+   #Telefono:hover{
+      /* +34 93 413 76 04 */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Info-CARNET a{
+      /* info@carnetbarcelona */
+      color: #db5c24;
+   }
+
+   #Info-CARNET a:hover{
+      /* info@carnetbarcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #CARNET-Web a{
+      /* www.carnet.barcelona */
+      color: #db5c24;
+   }
+
+   #CARNET-Web a:hover{
+      /* www.carnet.barcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   .Padre .Footer .Boton_gordo{
+      color: white;
+      background-color: #db5c24;
+   }
+
+   #Icono{
+      color: #db5c24;
+   }
+}
+
+@media only screen and (min-width: 600px){
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  .Padre{
+   width: 80%;
+   height: auto;
+   background-color: white;
+   position: relative;
+   top: 60px;
+   right: ;
+   bottom: ;
+   left: ;
+   margin: auto;
+}
+
+
+.Cortinilla img{
+   width: 100%;
+   position: relative;
+   top: ;
+   right: ;
+   bottom:  ;
+   left: ;
+}
+/* ADC 
+   === */
+.ADC{
+   width: 100%;
+   position: relative;
+   top: 5%;
+}
+   
+   .Cabecera{
+      
+   }   
+
+      .Cabecera .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+   
+      .Cabecera .Titulo{
+         position: absolute;
+         top: 0%;
+      }
+      
+      .Cabecera img.Titulo{
+         padding-top: 1.4%;
+         padding-left: 2.5%;
+      }
+
+      .Cabecera .Coche_cabecera{
+         width: 100%;
+      }
+
+   .Intro{
+      background-color: black;
+      color: white;
+      height: 100px;
+   }    
+
+   .Parte_1{
+      height: 400px;
+   }
+
+      .Parte_1 .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Parte_1 .Parte_1-Titulo{
+         position: absolute;
+         color: white; 
+         font-weight: bold;
+         font-size: 30px;
+         padding-top: 50px;
+         padding-left: 50px; 
+      }
+      
+      .Parte_1 .Parte_1-Cuerpo{
+         position: relative;
+         top: 200px;
+      }
+
+   .Separador_1{
+   
+   }
+
+       .Separador_1 .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+      
+      .Coche-separador-1{
+            /* Imágen de coche en el separador 1 */
+            width: 100%;
+            height: auto;
+      }
+
+      .Separador_1 .Cortinilla_inf{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+        
+
+   .Parte_2{
+      width: 100%; 
+      background-color: black;
+      color: white;
+   }
+
+      .Parte_2 .Parte_2-texto{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Parte_2 .Separador{
+         height: 100px;
+      }
+
+   .Evento_Final{
+
+   }         
+
+      .Evento_Final .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Evento_Final .Evento_Final-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Evento_Final .Texto-Evento_Final{
+         margin: 0px 30px 0px 30px;
+      }
+           
+      .Evento_Final .Texto-Evento_Final .Separador{
+         height: 50px;
+      }
+
+      .Evento_Final .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+
+   .Separador_2{
+
+   }
+
+      .Separador_2 img{
+         width: 100%;
+      }
+           
+   .Desafios{
+
+   }
+      
+      .Desafios .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+      
+      .Desafios .Desafios-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Desafios .Desafios-Cuerpo{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Desafios .Desafios-Separador{
+         height: 20px;
+      }
+
+   .Calendario{
+      height: 600px;
+   }
+
+      .Calendario .Calendario-Titulo{
+         height: 100px;
+         background-color: black;
+         color: white;
+         font-weight: bold;
+         font-size: 30px;
+         position: relative; 
+         top: 0%;
+         padding-top: 20px;
+      }
+
+      .Calendario .Calendario-Cuerpo{
+      
+      }
+
+      .Calendario .Calendario-Cuerpo .Calendario-Cuerpo-Elementos{
+         margin: 100px;
+      }
+
+         .Item_1-Calendario{
+            height: 80%;
+         }
+
+         .Item_2-Calendario{
+            height: 80%;
+         }
+
+         .Item_3-Calendario{
+            height: 80%;
+         }
+
+         .Calendario .Item_1-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_1-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_1-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 130px;
+            color: white;
+         }
+
+         .Calendario .Item_2-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_2-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_2-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 100px;
+            color: white;
+         }
+
+         .Calendario .Item_3-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_3-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_3-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 100px;
+            color: white;
+         }
+
+   .Ediciones_Pasadas{
+   }
+
+      .Ediciones_Pasadas .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Cuerpo{
+         height: 950px;
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Separador{
+         height: 50px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Video{
+            margin: 100px 100px 100px 325px;
+            display:block;
+      }
+
+      
+
+/* PARTICIPANTES 
+   ============= */
+.Participantes{
+
+}
+
+   .Equipos{
+   }
+   
+      .Equipos .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Equipos .Equipos-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Equipos .Equipos-Cuerpo{
+            min-height: 550px;
+      }
+         .Equipos .Equipos-Cuerpo .Equipos-Lista{
+               width: 80%;
+               margin: auto;
+               align-items: center;
+               padding: 10px;
+         }
+
+
+            .list-group-item{
+               background-color: black !important;
+               font-weight: bold !important;
+               font-size: 20px;
+               color: white !important;
+               padding: 10px 0px 10px 0px !important; 
+               margin: 10px; 
+            }
+
+            .list-group-item:hover{
+               background-color: black !important;
+               font-weight: bold !important;
+               font-size: 25px;
+               color: #db5c24 !important;
+               padding: 10px 0px 10px 0px !important; 
+            }
+
+/* RECURSOS 
+   ======== */
+.Recursos{
+
+}
+
+   .Entrenamiento{
+      height: 600px; 
+   }
+
+      .Entrenamiento .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+
+      .Entrenamiento .Entrenamiento-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Entrenamiento .Entrenamiento-Cuerpo{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Entrenemiento .Entrenamiento-Cortinilla{
+         height: 50px;
+      }
+
+      .Entrenamiento .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 10%;
+            left: ;
+      }
+
+   .Separador_3{
+   
+   }
+      .Separador_3 img{
+         width: 100%;
+         height: auto;
+      }
+
+   .Material{
+      
+   }
+
+      .Material .Titulo-Material{
+         height: 150px; 
+         font-weight: bold;
+         font-size: 30px;
+         padding-top: 50px;
+      }
+      
+      .Material .Material-Cuerpo{
+         height: 400px;
+         background-color: black;
+         color: white;
+         display: block;
+      }
+
+         .Material .Material-Cuerpo .Material-fila_1{
+         }
+
+         .Material .Material-Cuerpo .Material-fila_2{
+         }
+
+            .Material .Material-Cuerpo .Material-Elementos{
+               position: relative;
+               font-size: 50px;
+               width: 40%;
+               margin: 50px 50px;
+            }
+            
+            .Material .Material-Cuerpo .Material-Elementos:hover{
+               color: #db5c24;
+               font-size: 50px;
+               margin: 50px;
+            }
+
+   .Lugar{
+      height: 600px;
+   }
+
+   .Comunidad{
+
+   }
+
+      .Comunidad .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+   
+      .Comunidad .Comunidad-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+      .Comunidad .Comunidad-Cuerpo{
+            height: 500px;    
+            margin: 0px 30px 0px 30px;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1{
+            height: 25%;
+            width: 80%;
+            margin: auto;
+            background-color: white;
+      }
+      
+      .Comunidad .Comunidad-Cuerpo a.Comunidad-Cuerpo-Fila_1{
+         color: #db5c24;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1 .btn{
+            background-color: #db5c24;
+            color: white;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+            border-color: #db5c24;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1 .btn:hover{
+            background-color: red;
+            color: white;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+            border-color: red;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Separador{
+            height: 10%;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2{
+            height: 25%;
+            width: 80%;
+            margin: auto;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2 #Icono{
+            color: #db5c24;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2 #Icono:hover{
+            color: red;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+      }
+
+/* ORGANIZADORES
+   ============= */
+.Organizadores{
+
+}
+
+      .Organizadores .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+
+      .Organizadores .Organizadores-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Organizadores .Organizadores-Cuerpo{
+         height: 500px; 
+         margin: 0px 30px 0px 30px;
+      }  
+
+      .Organizadores .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+
+      .Organizadores .Organizadores-Separador{
+         height: 50px;
+      }
+
+      .Organizadores .Organizadores-SEAT{
+         width: 100px;
+         height: auto;
+         margin: 30px;
+      }
+
+      .Organizadores .Organizadores-CARNET{
+         margin: 30px;
+      }
+
+/* FOOTER
+   ======*/
+.Footer{
+   width: 100%;
+   position: absolute;
+   top: calc(1000-500);
+   right: ;
+   bottom: ;
+   left: 50%;
+   transform: translate(-50%, 0);
+   }
+
+   #Direccion_1{
+      /* Carrer Jordi Girona, 31 */
+      color: black;
+   }
+
+   #Direccion_1:hover{
+      /* Carrer Jordi Girona, 31 */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Direccion_2{
+      /* Edifci Til·lers, Barcelona */
+      color: black;
+   }
+
+   #Direccion_2:hover{
+      /* Edifci Til·lers, Barcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Telefono{
+      /* +34 93 413 76 04 */
+      color: black;
+      font-weight: bold;
+   }
+
+   #Telefono:hover{
+      /* +34 93 413 76 04 */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Info-CARNET a{
+      /* info@carnetbarcelona */
+      color: #db5c24;
+   }
+
+   #Info-CARNET a:hover{
+      /* info@carnetbarcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #CARNET-Web a{
+      /* www.carnet.barcelona */
+      color: #db5c24;
+   }
+
+   #CARNET-Web a:hover{
+      /* www.carnet.barcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   .Padre .Footer .Boton_gordo{
+      color: white;
+      background-color: #db5c24;
+   }
+
+   #Icono{
+      color: #db5c24;
+   }
+}
+
+@media only screen and (min-width: 768px){
+  /* Medium devices (landscape tablets, 768px and up) */
+.Padre{
+   width: 80%;
+   height: auto;
+   background-color: white;
+   position: relative;
+   top: 60px;
+   right: ;
+   bottom: ;
+   left: ;
+   margin: auto;
+}
+
+
+.Cortinilla img{
+   width: 100%;
+   position: relative;
+   top: ;
+   right: ;
+   bottom:  ;
+   left: ;
+}
+
+/* ADC 
+   === */
+.ADC{
+   width: 100%;
+   position: relative;
+   top: 5%;
+}
+   
+   .Cabecera{
+      
+   }   
+
+      .Cabecera .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+   
+      .Cabecera .Titulo{
+         position: absolute;
+         top: 0%;
+      }
+      
+      .Cabecera img.Titulo{
+         padding-top: 1.4%;
+         padding-left: 2.5%;
+      }
+
+      .Cabecera .Coche_cabecera{
+         width: 100%;
+      }
+
+   .Intro{
+      background-color: black;
+      color: white;
+      height: 100px;
+   }    
+
+   .Parte_1{
+      height: 400px;
+   }
+
+      .Parte_1 .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Parte_1 .Parte_1-Titulo{
+         position: absolute;
+         color: white; 
+         font-weight: bold;
+         font-size: 30px;
+         padding-top: 50px;
+         padding-left: 50px; 
+      }
+      
+      .Parte_1 .Parte_1-Cuerpo{
+         position: relative;
+         top: 200px;
+      }
+
+   .Separador_1{
+   
+   }
+
+       .Separador_1 .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+      
+      .Coche-separador-1{
+            /* Imágen de coche en el separador 1 */
+            width: 100%;
+            height: auto;
+      }
+
+      .Separador_1 .Cortinilla_inf{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+        
+
+   .Parte_2{
+      width: 100%; 
+      background-color: black;
+      color: white;
+   }
+
+      .Parte_2 .Parte_2-texto{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Parte_2 .Separador{
+         height: 100px;
+      }
+
+   .Evento_Final{
+
+   }         
+
+      .Evento_Final .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Evento_Final .Evento_Final-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Evento_Final .Texto-Evento_Final{
+         margin: 0px 30px 0px 30px;
+      }
+           
+      .Evento_Final .Texto-Evento_Final .Separador{
+         height: 50px;
+      }
+
+      .Evento_Final .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+
+   .Separador_2{
+
+   }
+
+      .Separador_2 img{
+         width: 100%;
+      }
+           
+   .Desafios{
+
+   }
+      
+      .Desafios .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+      
+      .Desafios .Desafios-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Desafios .Desafios-Cuerpo{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Desafios .Desafios-Separador{
+         height: 20px;
+      }
+
+   .Calendario{
+      height: 600px;
+   }
+
+      .Calendario .Calendario-Titulo{
+         height: 100px;
+         background-color: black;
+         color: white;
+         font-weight: bold;
+         font-size: 30px;
+         position: relative; 
+         top: 0%;
+         padding-top: 20px;
+      }
+
+      .Calendario .Calendario-Cuerpo{
+      
+      }
+
+      .Calendario .Calendario-Cuerpo .Calendario-Cuerpo-Elementos{
+         margin: 100px;
+      }
+
+         .Item_1-Calendario{
+            height: 80%;
+         }
+
+         .Item_2-Calendario{
+            height: 80%;
+         }
+
+         .Item_3-Calendario{
+            height: 80%;
+         }
+
+         .Calendario .Item_1-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_1-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_1-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 130px;
+            color: white;
+         }
+
+         .Calendario .Item_2-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_2-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_2-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 100px;
+            color: white;
+         }
+
+         .Calendario .Item_3-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_3-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_3-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 100px;
+            color: white;
+         }
+
+   .Ediciones_Pasadas{
+   }
+
+      .Ediciones_Pasadas .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Cuerpo{
+         height: 950px;
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Separador{
+         height: 50px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Video{
+            margin: 100px 100px 100px 325px;
+            display:block;
+      }
+
+      
+
+/* PARTICIPANTES 
+   ============= */
+.Participantes{
+
+}
+
+   .Equipos{
+   }
+   
+      .Equipos .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Equipos .Equipos-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Equipos .Equipos-Cuerpo{
+            min-height: 550px;
+      }
+         .Equipos .Equipos-Cuerpo .Equipos-Lista{
+               width: 80%;
+               margin: auto;
+               align-items: center;
+               padding: 10px;
+         }
+
+
+            .list-group-item{
+               background-color: black !important;
+               font-weight: bold !important;
+               font-size: 20px;
+               color: white !important;
+               padding: 10px 0px 10px 0px !important; 
+               margin: 10px; 
+            }
+
+            .list-group-item:hover{
+               background-color: black !important;
+               font-weight: bold !important;
+               font-size: 25px;
+               color: #db5c24 !important;
+               padding: 10px 0px 10px 0px !important; 
+            }
+
+/* RECURSOS 
+   ======== */
+.Recursos{
+
+}
+
+   .Entrenamiento{
+      height: 600px; 
+   }
+
+      .Entrenamiento .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+
+      .Entrenamiento .Entrenamiento-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Entrenamiento .Entrenamiento-Cuerpo{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Entrenemiento .Entrenamiento-Cortinilla{
+         height: 50px;
+      }
+
+      .Entrenamiento .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 10%;
+            left: ;
+      }
+
+   .Separador_3{
+   
+   }
+      .Separador_3 img{
+         width: 100%;
+         height: auto;
+      }
+
+   .Material{
+      
+   }
+
+      .Material .Titulo-Material{
+         height: 150px; 
+         font-weight: bold;
+         font-size: 30px;
+         padding-top: 50px;
+      }
+      
+      .Material .Material-Cuerpo{
+         height: 400px;
+         background-color: black;
+         color: white;
+         display: block;
+      }
+
+         .Material .Material-Cuerpo .Material-fila_1{
+         }
+
+         .Material .Material-Cuerpo .Material-fila_2{
+         }
+
+            .Material .Material-Cuerpo .Material-Elementos{
+               position: relative;
+               font-size: 50px;
+               width: 40%;
+               margin: 50px 50px;
+            }
+            
+            .Material .Material-Cuerpo .Material-Elementos:hover{
+               color: #db5c24;
+               font-size: 50px;
+               margin: 50px;
+            }
+
+   .Lugar{
+      height: 600px;
+   }
+
+   .Comunidad{
+
+   }
+
+      .Comunidad .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+   
+      .Comunidad .Comunidad-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+      .Comunidad .Comunidad-Cuerpo{
+            height: 500px;    
+            margin: 0px 30px 0px 30px;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1{
+            height: 25%;
+            width: 80%;
+            margin: auto;
+            background-color: white;
+      }
+      
+      .Comunidad .Comunidad-Cuerpo a.Comunidad-Cuerpo-Fila_1{
+         color: #db5c24;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1 .btn{
+            background-color: #db5c24;
+            color: white;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+            border-color: #db5c24;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1 .btn:hover{
+            background-color: red;
+            color: white;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+            border-color: red;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Separador{
+            height: 10%;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2{
+            height: 25%;
+            width: 80%;
+            margin: auto;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2 #Icono{
+            color: #db5c24;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2 #Icono:hover{
+            color: red;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+      }
+
+/* ORGANIZADORES
+   ============= */
+.Organizadores{
+
+}
+
+      .Organizadores .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+
+      .Organizadores .Organizadores-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Organizadores .Organizadores-Cuerpo{
+         height: 500px; 
+         margin: 0px 30px 0px 30px;
+      }  
+
+      .Organizadores .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+
+      .Organizadores .Organizadores-Separador{
+         height: 50px;
+      }
+
+      .Organizadores .Organizadores-SEAT{
+         width: 100px;
+         height: auto;
+         margin: 30px;
+      }
+
+      .Organizadores .Organizadores-CARNET{
+         margin: 30px;
+      }
+
+/* FOOTER
+   ======*/
+.Footer{
+   width: 100%;
+   position: absolute;
+   top: calc(1000-500);
+   right: ;
+   bottom: ;
+   left: 50%;
+   transform: translate(-50%, 0);
+   }
+
+   #Direccion_1{
+      /* Carrer Jordi Girona, 31 */
+      color: black;
+   }
+
+   #Direccion_1:hover{
+      /* Carrer Jordi Girona, 31 */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Direccion_2{
+      /* Edifci Til·lers, Barcelona */
+      color: black;
+   }
+
+   #Direccion_2:hover{
+      /* Edifci Til·lers, Barcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Telefono{
+      /* +34 93 413 76 04 */
+      color: black;
+      font-weight: bold;
+   }
+
+   #Telefono:hover{
+      /* +34 93 413 76 04 */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Info-CARNET a{
+      /* info@carnetbarcelona */
+      color: #db5c24;
+   }
+
+   #Info-CARNET a:hover{
+      /* info@carnetbarcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #CARNET-Web a{
+      /* www.carnet.barcelona */
+      color: #db5c24;
+   }
+
+   #CARNET-Web a:hover{
+      /* www.carnet.barcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   .Padre .Footer .Boton_gordo{
+      color: white;
+      background-color: #db5c24;
+   }
+
+   #Icono{
+      color: #db5c24;
+   }
+}
+
+@media only screen and (min-width: 992px){
+  /* Large devices (laptops/desktops, 992px and up) */
+.Padre{
+   width: 80%;
+   height: auto;
+   background-color: white;
+   position: relative;
+   top: 60px;
+   right: ;
+   bottom: ;
+   left: ;
+   margin: auto;
+}
+
+
+.Cortinilla img{
+   width: 100%;
+   position: relative;
+   top: ;
+   right: ;
+   bottom:  ;
+   left: ;
+}
+/* ADC 
+   === */
+.ADC{
+   width: 100%;
+   position: relative;
+   top: 5%;
+}
+   
+   .Cabecera{
+      
+   }   
+
+      .Cabecera .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+   
+      .Cabecera .Titulo{
+         position: absolute;
+         top: 0%;
+      }
+      
+      .Cabecera img.Titulo{
+         padding-top: 1.4%;
+         padding-left: 2.5%;
+      }
+
+      .Cabecera .Coche_cabecera{
+         width: 100%;
+      }
+
+   .Intro{
+      background-color: black;
+      color: white;
+      height: 100px;
+   }    
+
+   .Parte_1{
+      height: 400px;
+   }
+
+      .Parte_1 .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Parte_1 .Parte_1-Titulo{
+         position: absolute;
+         color: white; 
+         font-weight: bold;
+         font-size: 30px;
+         padding-top: 50px;
+         padding-left: 50px; 
+      }
+      
+      .Parte_1 .Parte_1-Cuerpo{
+         position: relative;
+         top: 200px;
+      }
+
+   .Separador_1{
+   
+   }
+
+       .Separador_1 .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+      
+      .Coche-separador-1{
+            /* Imágen de coche en el separador 1 */
+            width: 100%;
+            height: auto;
+      }
+
+      .Separador_1 .Cortinilla_inf{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+        
+
+   .Parte_2{
+      width: 100%; 
+      background-color: black;
+      color: white;
+   }
+
+      .Parte_2 .Parte_2-texto{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Parte_2 .Separador{
+         height: 100px;
+      }
+
+   .Evento_Final{
+
+   }         
+
+      .Evento_Final .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Evento_Final .Evento_Final-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Evento_Final .Texto-Evento_Final{
+         margin: 0px 30px 0px 30px;
+      }
+           
+      .Evento_Final .Texto-Evento_Final .Separador{
+         height: 50px;
+      }
+
+      .Evento_Final .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+
+   .Separador_2{
+
+   }
+
+      .Separador_2 img{
+         width: 100%;
+      }
+           
+   .Desafios{
+
+   }
+      
+      .Desafios .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+      
+      .Desafios .Desafios-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Desafios .Desafios-Cuerpo{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Desafios .Desafios-Separador{
+         height: 20px;
+      }
+
+   .Calendario{
+      height: 600px;
+   }
+
+      .Calendario .Calendario-Titulo{
+         height: 100px;
+         background-color: black;
+         color: white;
+         font-weight: bold;
+         font-size: 30px;
+         position: relative; 
+         top: 0%;
+         padding-top: 20px;
+      }
+
+      .Calendario .Calendario-Cuerpo{
+      
+      }
+
+      .Calendario .Calendario-Cuerpo .Calendario-Cuerpo-Elementos{
+         margin: 100px;
+      }
+
+         .Item_1-Calendario{
+            height: 80%;
+         }
+
+         .Item_2-Calendario{
+            height: 80%;
+         }
+
+         .Item_3-Calendario{
+            height: 80%;
+         }
+
+         .Calendario .Item_1-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_1-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_1-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 130px;
+            color: white;
+         }
+
+         .Calendario .Item_2-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_2-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_2-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 100px;
+            color: white;
+         }
+
+         .Calendario .Item_3-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_3-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_3-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 100px;
+            color: white;
+         }
+
+   .Ediciones_Pasadas{
+   }
+
+      .Ediciones_Pasadas .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Cuerpo{
+         height: 950px;
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Separador{
+         height: 50px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Video{
+            margin: 100px 100px 100px 325px;
+            display:block;
+      }
+
+      
+
+/* PARTICIPANTES 
+   ============= */
+.Participantes{
+
+}
+
+   .Equipos{
+   }
+   
+      .Equipos .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Equipos .Equipos-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Equipos .Equipos-Cuerpo{
+            min-height: 550px;
+      }
+         .Equipos .Equipos-Cuerpo .Equipos-Lista{
+               width: 80%;
+               margin: auto;
+               align-items: center;
+               padding: 10px;
+         }
+
+
+            .list-group-item{
+               background-color: black !important;
+               font-weight: bold !important;
+               font-size: 20px;
+               color: white !important;
+               padding: 10px 0px 10px 0px !important; 
+               margin: 10px; 
+            }
+
+            .list-group-item:hover{
+               background-color: black !important;
+               font-weight: bold !important;
+               font-size: 25px;
+               color: #db5c24 !important;
+               padding: 10px 0px 10px 0px !important; 
+            }
+
+/* RECURSOS 
+   ======== */
+.Recursos{
+
+}
+
+   .Entrenamiento{
+      height: 600px; 
+   }
+
+      .Entrenamiento .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+
+      .Entrenamiento .Entrenamiento-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Entrenamiento .Entrenamiento-Cuerpo{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Entrenemiento .Entrenamiento-Cortinilla{
+         height: 50px;
+      }
+
+      .Entrenamiento .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 10%;
+            left: ;
+      }
+
+   .Separador_3{
+   
+   }
+      .Separador_3 img{
+         width: 100%;
+         height: auto;
+      }
+
+   .Material{
+      
+   }
+
+      .Material .Titulo-Material{
+         height: 150px; 
+         font-weight: bold;
+         font-size: 30px;
+         padding-top: 50px;
+      }
+      
+      .Material .Material-Cuerpo{
+         height: 400px;
+         background-color: black;
+         color: white;
+         display: block;
+      }
+
+         .Material .Material-Cuerpo .Material-fila_1{
+         }
+
+         .Material .Material-Cuerpo .Material-fila_2{
+         }
+
+            .Material .Material-Cuerpo .Material-Elementos{
+               position: relative;
+               font-size: 50px;
+               width: 40%;
+               margin: 50px 50px;
+            }
+            
+            .Material .Material-Cuerpo .Material-Elementos:hover{
+               color: #db5c24;
+               font-size: 50px;
+               margin: 50px;
+            }
+
+   .Lugar{
+      height: 600px;
+   }
+
+   .Comunidad{
+
+   }
+
+      .Comunidad .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+   
+      .Comunidad .Comunidad-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+      .Comunidad .Comunidad-Cuerpo{
+            height: 500px;    
+            margin: 0px 30px 0px 30px;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1{
+            height: 25%;
+            width: 80%;
+            margin: auto;
+            background-color: white;
+      }
+      
+      .Comunidad .Comunidad-Cuerpo a.Comunidad-Cuerpo-Fila_1{
+         color: #db5c24;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1 .btn{
+            background-color: #db5c24;
+            color: white;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+            border-color: #db5c24;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1 .btn:hover{
+            background-color: red;
+            color: white;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+            border-color: red;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Separador{
+            height: 10%;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2{
+            height: 25%;
+            width: 80%;
+            margin: auto;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2 #Icono{
+            color: #db5c24;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2 #Icono:hover{
+            color: red;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+      }
+
+/* ORGANIZADORES
+   ============= */
+.Organizadores{
+
+}
+
+      .Organizadores .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+
+      .Organizadores .Organizadores-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Organizadores .Organizadores-Cuerpo{
+         height: 500px; 
+         margin: 0px 30px 0px 30px;
+      }  
+
+      .Organizadores .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+
+      .Organizadores .Organizadores-Separador{
+         height: 50px;
+      }
+
+      .Organizadores .Organizadores-SEAT{
+         width: 100px;
+         height: auto;
+         margin: 30px;
+      }
+
+      .Organizadores .Organizadores-CARNET{
+         margin: 30px;
+      }
+
+/* FOOTER
+   ======*/
+.Footer{
+   width: 100%;
+   position: absolute;
+   top: calc(1000-500);
+   right: ;
+   bottom: ;
+   left: 50%;
+   transform: translate(-50%, 0);
+   }
+
+   #Direccion_1{
+      /* Carrer Jordi Girona, 31 */
+      color: black;
+   }
+
+   #Direccion_1:hover{
+      /* Carrer Jordi Girona, 31 */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Direccion_2{
+      /* Edifci Til·lers, Barcelona */
+      color: black;
+   }
+
+   #Direccion_2:hover{
+      /* Edifci Til·lers, Barcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Telefono{
+      /* +34 93 413 76 04 */
+      color: black;
+      font-weight: bold;
+   }
+
+   #Telefono:hover{
+      /* +34 93 413 76 04 */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Info-CARNET a{
+      /* info@carnetbarcelona */
+      color: #db5c24;
+   }
+
+   #Info-CARNET a:hover{
+      /* info@carnetbarcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #CARNET-Web a{
+      /* www.carnet.barcelona */
+      color: #db5c24;
+   }
+
+   #CARNET-Web a:hover{
+      /* www.carnet.barcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   .Padre .Footer .Boton_gordo{
+      color: white;
+      background-color: #db5c24;
+   }
+
+   #Icono{
+      color: #db5c24;
+   }
+}
+
+@media only screen and (width: 1024px){
+  /* IPAD PRO */
+.Padre{
+   width: 80%;
+   height: auto;
+   background-color: white;
+   position: relative;
+   top: 60px;
+   right: ;
+   bottom: ;
+   left: ;
+   margin: auto;
+}
+
+
+.Cortinilla img{
+   width: 100%;
+   position: relative;
+   top: ;
+   right: ;
+   bottom:  ;
+   left: ;
+}
+/* ADC 
+   === */
+.ADC{
+   width: 100%;
+   position: relative;
+   top: 5%;
+}
+   
+   .Cabecera{
+      
+   }   
+
+      .Cabecera .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+   
+      .Cabecera .Titulo{
+         position: absolute;
+         top: 0%;
+      }
+      
+      .Cabecera img.Titulo{
+         padding-top: 1.4%;
+         padding-left: 2.5%;
+      }
+
+      .Cabecera .Coche_cabecera{
+         width: 100%;
+      }
+
+   .Intro{
+      background-color: black;
+      color: white;
+      height: 100px;
+   }    
+
+   .Parte_1{
+      height: 400px;
+   }
+
+      .Parte_1 .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Parte_1 .Parte_1-Titulo{
+         position: absolute;
+         color: white; 
+         font-weight: bold;
+         font-size: 30px;
+         padding-top: 50px;
+         padding-left: 50px; 
+      }
+      
+      .Parte_1 .Parte_1-Cuerpo{
+         position: relative;
+         top: 200px;
+      }
+
+   .Separador_1{
+   
+   }
+
+       .Separador_1 .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+      
+      .Coche-separador-1{
+            /* Imágen de coche en el separador 1 */
+            width: 100%;
+            height: auto;
+      }
+
+      .Separador_1 .Cortinilla_inf{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+        
+
+   .Parte_2{
+      width: 100%; 
+      background-color: black;
+      color: white;
+   }
+
+      .Parte_2 .Parte_2-texto{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Parte_2 .Separador{
+         height: 100px;
+      }
+
+   .Evento_Final{
+
+   }         
+
+      .Evento_Final .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Evento_Final .Evento_Final-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Evento_Final .Texto-Evento_Final{
+         margin: 0px 30px 0px 30px;
+      }
+           
+      .Evento_Final .Texto-Evento_Final .Separador{
+         height: 50px;
+      }
+
+      .Evento_Final .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+
+   .Separador_2{
+
+   }
+
+      .Separador_2 img{
+         width: 100%;
+      }
+           
+   .Desafios{
+
+   }
+      
+      .Desafios .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+      
+      .Desafios .Desafios-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Desafios .Desafios-Cuerpo{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Desafios .Desafios-Separador{
+         height: 20px;
+      }
+
+   .Calendario{
+      height: 600px;
+   }
+
+      .Calendario .Calendario-Titulo{
+         height: 100px;
+         background-color: black;
+         color: white;
+         font-weight: bold;
+         font-size: 30px;
+         position: relative; 
+         top: 0%;
+         padding-top: 20px;
+      }
+
+      .Calendario .Calendario-Cuerpo{
+      
+      }
+
+      .Calendario .Calendario-Cuerpo .Calendario-Cuerpo-Elementos{
+         margin: 100px;
+      }
+
+         .Item_1-Calendario{
+            height: 80%;
+         }
+
+         .Item_2-Calendario{
+            height: 80%;
+         }
+
+         .Item_3-Calendario{
+            height: 80%;
+         }
+
+         .Calendario .Item_1-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_1-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_1-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 130px;
+            color: white;
+         }
+
+         .Calendario .Item_2-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_2-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_2-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 100px;
+            color: white;
+         }
+
+         .Calendario .Item_3-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_3-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_3-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 100px;
+            color: white;
+         }
+
+   .Ediciones_Pasadas{
+   }
+
+      .Ediciones_Pasadas .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Cuerpo{
+         height: 950px;
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Separador{
+         height: 50px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Video{
+            margin: 100px 100px 100px 325px;
+            display:block;
+      }
+
+      
+
+/* PARTICIPANTES 
+   ============= */
+.Participantes{
+
+}
+
+   .Equipos{
+   }
+   
+      .Equipos .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Equipos .Equipos-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Equipos .Equipos-Cuerpo{
+            min-height: 550px;
+      }
+         .Equipos .Equipos-Cuerpo .Equipos-Lista{
+               width: 80%;
+               margin: auto;
+               align-items: center;
+               padding: 10px;
+         }
+
+
+            .list-group-item{
+               background-color: black !important;
+               font-weight: bold !important;
+               font-size: 20px;
+               color: white !important;
+               padding: 10px 0px 10px 0px !important; 
+               margin: 10px; 
+            }
+
+            .list-group-item:hover{
+               background-color: black !important;
+               font-weight: bold !important;
+               font-size: 25px;
+               color: #db5c24 !important;
+               padding: 10px 0px 10px 0px !important; 
+            }
+
+/* RECURSOS 
+   ======== */
+.Recursos{
+
+}
+
+   .Entrenamiento{
+      height: 600px; 
+   }
+
+      .Entrenamiento .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+
+      .Entrenamiento .Entrenamiento-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Entrenamiento .Entrenamiento-Cuerpo{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Entrenemiento .Entrenamiento-Cortinilla{
+         height: 50px;
+      }
+
+      .Entrenamiento .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 10%;
+            left: ;
+      }
+
+   .Separador_3{
+   
+   }
+      .Separador_3 img{
+         width: 100%;
+         height: auto;
+      }
+
+   .Material{
+      
+   }
+
+      .Material .Titulo-Material{
+         height: 150px; 
+         font-weight: bold;
+         font-size: 30px;
+         padding-top: 50px;
+      }
+      
+      .Material .Material-Cuerpo{
+         height: 400px;
+         background-color: black;
+         color: white;
+         display: block;
+      }
+
+         .Material .Material-Cuerpo .Material-fila_1{
+         }
+
+         .Material .Material-Cuerpo .Material-fila_2{
+         }
+
+            .Material .Material-Cuerpo .Material-Elementos{
+               position: relative;
+               font-size: 50px;
+               width: 40%;
+               margin: 50px 50px;
+            }
+            
+            .Material .Material-Cuerpo .Material-Elementos:hover{
+               color: #db5c24;
+               font-size: 50px;
+               margin: 50px;
+            }
+
+   .Lugar{
+      height: 600px;
+   }
+
+   .Comunidad{
+
+   }
+
+      .Comunidad .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+   
+      .Comunidad .Comunidad-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+      .Comunidad .Comunidad-Cuerpo{
+            height: 500px;    
+            margin: 0px 30px 0px 30px;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1{
+            height: 25%;
+            width: 80%;
+            margin: auto;
+            background-color: white;
+      }
+      
+      .Comunidad .Comunidad-Cuerpo a.Comunidad-Cuerpo-Fila_1{
+         color: #db5c24;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1 .btn{
+            background-color: #db5c24;
+            color: white;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+            border-color: #db5c24;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1 .btn:hover{
+            background-color: red;
+            color: white;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+            border-color: red;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Separador{
+            height: 10%;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2{
+            height: 25%;
+            width: 80%;
+            margin: auto;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2 #Icono{
+            color: #db5c24;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2 #Icono:hover{
+            color: red;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+      }
+
+/* ORGANIZADORES
+   ============= */
+.Organizadores{
+
+}
+
+      .Organizadores .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+
+      .Organizadores .Organizadores-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Organizadores .Organizadores-Cuerpo{
+         height: 500px; 
+         margin: 0px 30px 0px 30px;
+      }  
+
+      .Organizadores .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+
+      .Organizadores .Organizadores-Separador{
+         height: 50px;
+      }
+
+      .Organizadores .Organizadores-SEAT{
+         width: 100px;
+         height: auto;
+         margin: 30px;
+      }
+
+      .Organizadores .Organizadores-CARNET{
+         margin: 30px;
+      }
+
+/* FOOTER
+   ======*/
+.Footer{
+   width: 100%;
+   position: absolute;
+   top: calc(1000-500);
+   right: ;
+   bottom: ;
+   left: 50%;
+   transform: translate(-50%, 0);
+   }
+
+   #Direccion_1{
+      /* Carrer Jordi Girona, 31 */
+      color: black;
+   }
+
+   #Direccion_1:hover{
+      /* Carrer Jordi Girona, 31 */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Direccion_2{
+      /* Edifci Til·lers, Barcelona */
+      color: black;
+   }
+
+   #Direccion_2:hover{
+      /* Edifci Til·lers, Barcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Telefono{
+      /* +34 93 413 76 04 */
+      color: black;
+      font-weight: bold;
+   }
+
+   #Telefono:hover{
+      /* +34 93 413 76 04 */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Info-CARNET a{
+      /* info@carnetbarcelona */
+      color: #db5c24;
+   }
+
+   #Info-CARNET a:hover{
+      /* info@carnetbarcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #CARNET-Web a{
+      /* www.carnet.barcelona */
+      color: #db5c24;
+   }
+
+   #CARNET-Web a:hover{
+      /* www.carnet.barcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   .Padre .Footer .Boton_gordo{
+      color: white;
+      background-color: #db5c24;
+   }
+
+   #Icono{
+      color: #db5c24;
+   }
+}
+
+@media only screen and (min-width: 1200px){
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  .Padre{
+   width: 80%;
+   height: auto;
+   background-color: white;
+   position: relative;
+   top: 60px;
+   right: ;
+   bottom: ;
+   left: ;
+   margin: auto;
+}
+
+
+.Cortinilla img{
+   width: 100%;
+   position: relative;
+   top: ;
+   right: ;
+   bottom:  ;
+   left: ;
+}
+/* ADC 
+   === */
+.ADC{
+   width: 100%;
+   position: relative;
+   top: 5%;
+}
+   
+   .Cabecera{
+      
+   }   
+
+      .Cabecera .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+   
+      .Cabecera .Titulo{
+         position: absolute;
+         top: 0%;
+      }
+      
+      .Cabecera img.Titulo{
+         padding-top: 1.4%;
+         padding-left: 2.5%;
+      }
+
+      .Cabecera .Coche_cabecera{
+         width: 100%;
+      }
+
+   .Intro{
+      background-color: black;
+      color: white;
+      height: 100px;
+   }    
+
+   .Parte_1{
+      height: 400px;
+   }
+
+      .Parte_1 .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Parte_1 .Parte_1-Titulo{
+         position: absolute;
+         color: white; 
+         font-weight: bold;
+         font-size: 30px;
+         padding-top: 50px;
+         padding-left: 50px; 
+      }
+      
+      .Parte_1 .Parte_1-Cuerpo{
+         position: relative;
+         top: 200px;
+      }
+
+   .Separador_1{
+   
+   }
+
+       .Separador_1 .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+      
+      .Coche-separador-1{
+            /* Imágen de coche en el separador 1 */
+            width: 100%;
+            height: auto;
+      }
+
+      .Separador_1 .Cortinilla_inf{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+        
+
+   .Parte_2{
+      width: 100%; 
+      background-color: black;
+      color: white;
+   }
+
+      .Parte_2 .Parte_2-texto{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Parte_2 .Separador{
+         height: 100px;
+      }
+
+   .Evento_Final{
+
+   }         
+
+      .Evento_Final .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Evento_Final .Evento_Final-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Evento_Final .Texto-Evento_Final{
+         margin: 0px 30px 0px 30px;
+      }
+           
+      .Evento_Final .Texto-Evento_Final .Separador{
+         height: 50px;
+      }
+
+      .Evento_Final .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+
+   .Separador_2{
+
+   }
+
+      .Separador_2 img{
+         width: 100%;
+      }
+           
+   .Desafios{
+
+   }
+      
+      .Desafios .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+      
+      .Desafios .Desafios-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Desafios .Desafios-Cuerpo{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Desafios .Desafios-Separador{
+         height: 20px;
+      }
+
+   .Calendario{
+      height: 600px;
+   }
+
+      .Calendario .Calendario-Titulo{
+         height: 100px;
+         background-color: black;
+         color: white;
+         font-weight: bold;
+         font-size: 30px;
+         position: relative; 
+         top: 0%;
+         padding-top: 20px;
+      }
+
+      .Calendario .Calendario-Cuerpo{
+      
+      }
+
+      .Calendario .Calendario-Cuerpo .Calendario-Cuerpo-Elementos{
+         margin: 100px;
+      }
+
+         .Item_1-Calendario{
+            height: 80%;
+         }
+
+         .Item_2-Calendario{
+            height: 80%;
+         }
+
+         .Item_3-Calendario{
+            height: 80%;
+         }
+
+         .Calendario .Item_1-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_1-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_1-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 130px;
+            color: white;
+         }
+
+         .Calendario .Item_2-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_2-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_2-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 100px;
+            color: white;
+         }
+
+         .Calendario .Item_3-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_3-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_3-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 100px;
+            color: white;
+         }
+
+   .Ediciones_Pasadas{
+   }
+
+      .Ediciones_Pasadas .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Cuerpo{
+         height: 950px;
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Separador{
+         height: 50px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Video{
+            margin: 100px 100px 100px 325px;
+            display:block;
+      }
+
+      
+
+/* PARTICIPANTES 
+   ============= */
+.Participantes{
+
+}
+
+   .Equipos{
+   }
+   
+      .Equipos .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Equipos .Equipos-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Equipos .Equipos-Cuerpo{
+            min-height: 550px;
+      }
+         .Equipos .Equipos-Cuerpo .Equipos-Lista{
+               width: 80%;
+               margin: auto;
+               align-items: center;
+               padding: 10px;
+         }
+
+
+            .list-group-item{
+               background-color: black !important;
+               font-weight: bold !important;
+               font-size: 20px;
+               color: white !important;
+               padding: 10px 0px 10px 0px !important; 
+               margin: 10px; 
+            }
+
+            .list-group-item:hover{
+               background-color: black !important;
+               font-weight: bold !important;
+               font-size: 25px;
+               color: #db5c24 !important;
+               padding: 10px 0px 10px 0px !important; 
+            }
+
+/* RECURSOS 
+   ======== */
+.Recursos{
+
+}
+
+   .Entrenamiento{
+      height: 600px; 
+   }
+
+      .Entrenamiento .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+
+      .Entrenamiento .Entrenamiento-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Entrenamiento .Entrenamiento-Cuerpo{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Entrenemiento .Entrenamiento-Cortinilla{
+         height: 50px;
+      }
+
+      .Entrenamiento .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 10%;
+            left: ;
+      }
+
+   .Separador_3{
+   
+   }
+      .Separador_3 img{
+         width: 100%;
+         height: auto;
+      }
+
+   .Material{
+      
+   }
+
+      .Material .Titulo-Material{
+         height: 150px; 
+         font-weight: bold;
+         font-size: 30px;
+         padding-top: 50px;
+      }
+      
+      .Material .Material-Cuerpo{
+         height: 400px;
+         background-color: black;
+         color: white;
+         display: block;
+      }
+
+         .Material .Material-Cuerpo .Material-fila_1{
+         }
+
+         .Material .Material-Cuerpo .Material-fila_2{
+         }
+
+            .Material .Material-Cuerpo .Material-Elementos{
+               position: relative;
+               font-size: 50px;
+               width: 40%;
+               margin: 50px 50px;
+            }
+            
+            .Material .Material-Cuerpo .Material-Elementos:hover{
+               color: #db5c24;
+               font-size: 50px;
+               margin: 50px;
+            }
+
+   .Lugar{
+      height: 600px;
+   }
+
+   .Comunidad{
+
+   }
+
+      .Comunidad .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+   
+      .Comunidad .Comunidad-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+      .Comunidad .Comunidad-Cuerpo{
+            height: 500px;    
+            margin: 0px 30px 0px 30px;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1{
+            height: 25%;
+            width: 80%;
+            margin: auto;
+            background-color: white;
+      }
+      
+      .Comunidad .Comunidad-Cuerpo a.Comunidad-Cuerpo-Fila_1{
+         color: #db5c24;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1 .btn{
+            background-color: #db5c24;
+            color: white;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+            border-color: #db5c24;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1 .btn:hover{
+            background-color: red;
+            color: white;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+            border-color: red;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Separador{
+            height: 10%;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2{
+            height: 25%;
+            width: 80%;
+            margin: auto;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2 #Icono{
+            color: #db5c24;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2 #Icono:hover{
+            color: red;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+      }
+
+/* ORGANIZADORES
+   ============= */
+.Organizadores{
+
+}
+
+      .Organizadores .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+
+      .Organizadores .Organizadores-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Organizadores .Organizadores-Cuerpo{
+         height: 500px; 
+         margin: 0px 30px 0px 30px;
+      }  
+
+      .Organizadores .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+
+      .Organizadores .Organizadores-Separador{
+         height: 50px;
+      }
+
+      .Organizadores .Organizadores-SEAT{
+         width: 100px;
+         height: auto;
+         margin: 30px;
+      }
+
+      .Organizadores .Organizadores-CARNET{
+         margin: 30px;
+      }
+
+/* FOOTER
+   ======*/
+.Footer{
+   width: 100%;
+   position: absolute;
+   top: calc(1000-500);
+   right: ;
+   bottom: ;
+   left: 50%;
+   transform: translate(-50%, 0);
+   }
+
+   #Direccion_1{
+      /* Carrer Jordi Girona, 31 */
+      color: black;
+   }
+
+   #Direccion_1:hover{
+      /* Carrer Jordi Girona, 31 */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Direccion_2{
+      /* Edifci Til·lers, Barcelona */
+      color: black;
+   }
+
+   #Direccion_2:hover{
+      /* Edifci Til·lers, Barcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Telefono{
+      /* +34 93 413 76 04 */
+      color: black;
+      font-weight: bold;
+   }
+
+   #Telefono:hover{
+      /* +34 93 413 76 04 */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Info-CARNET a{
+      /* info@carnetbarcelona */
+      color: #db5c24;
+   }
+
+   #Info-CARNET a:hover{
+      /* info@carnetbarcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #CARNET-Web a{
+      /* www.carnet.barcelona */
+      color: #db5c24;
+   }
+
+   #CARNET-Web a:hover{
+      /* www.carnet.barcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   .Padre .Footer .Boton_gordo{
+      color: white;
+      background-color: #db5c24;
+   }
+
+   #Icono{
+      color: #db5c24;
+   }
+}
+
+@media only screen and (orientation: landscape){
+  /* Only apply when the browser window is wider than its height */
+  /* MENU
+   ==== */
+.Padre{
+   width: 80%;
+   height: auto;
+   background-color: white;
+   position: relative;
+   top: 60px;
+   right: ;
+   bottom: ;
+   left: ;
+   margin: auto;
+}
+
+
+.Cortinilla img{
+   width: 100%;
+   position: relative;
+   top: ;
+   right: ;
+   bottom:  ;
+   left: ;
+}
+/* ADC 
+   === */
+.ADC{
+   width: 100%;
+   position: relative;
+   top: 5%;
+}
+   
+   .Cabecera{
+      
+   }   
+
+      .Cabecera .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+   
+      .Cabecera .Titulo{
+         position: absolute;
+         top: 0%;
+      }
+      
+      .Cabecera img.Titulo{
+         padding-top: 1.4%;
+         padding-left: 2.5%;
+      }
+
+      .Cabecera .Coche_cabecera{
+         width: 100%;
+      }
+
+   .Intro{
+      background-color: black;
+      color: white;
+      height: 100px;
+   }    
+
+   .Parte_1{
+      height: 400px;
+   }
+
+      .Parte_1 .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Parte_1 .Parte_1-Titulo{
+         position: absolute;
+         color: white; 
+         font-weight: bold;
+         font-size: 30px;
+         padding-top: 50px;
+         padding-left: 50px; 
+      }
+      
+      .Parte_1 .Parte_1-Cuerpo{
+         position: relative;
+         top: 200px;
+      }
+
+   .Separador_1{
+   
+   }
+
+       .Separador_1 .Cortinilla{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+      
+      .Coche-separador-1{
+            /* Imágen de coche en el separador 1 */
+            width: 100%;
+            height: auto;
+      }
+
+      .Separador_1 .Cortinilla_inf{
+            width: 100%;
+            position: absolute;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+        
+
+   .Parte_2{
+      width: 100%; 
+      background-color: black;
+      color: white;
+   }
+
+      .Parte_2 .Parte_2-texto{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Parte_2 .Separador{
+         height: 100px;
+      }
+
+   .Evento_Final{
+
+   }         
+
+      .Evento_Final .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Evento_Final .Evento_Final-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Evento_Final .Texto-Evento_Final{
+         margin: 0px 30px 0px 30px;
+      }
+           
+      .Evento_Final .Texto-Evento_Final .Separador{
+         height: 50px;
+      }
+
+      .Evento_Final .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+
+   .Separador_2{
+
+   }
+
+      .Separador_2 img{
+         width: 100%;
+      }
+           
+   .Desafios{
+
+   }
+      
+      .Desafios .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+      
+      .Desafios .Desafios-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Desafios .Desafios-Cuerpo{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Desafios .Desafios-Separador{
+         height: 20px;
+      }
+
+   .Calendario{
+      height: 600px;
+   }
+
+      .Calendario .Calendario-Titulo{
+         height: 100px;
+         background-color: black;
+         color: white;
+         font-weight: bold;
+         font-size: 30px;
+         position: relative; 
+         top: 0%;
+         padding-top: 20px;
+      }
+
+      .Calendario .Calendario-Cuerpo{
+      
+      }
+
+      .Calendario .Calendario-Cuerpo .Calendario-Cuerpo-Elementos{
+         margin: 100px;
+      }
+
+         .Item_1-Calendario{
+            height: 80%;
+         }
+
+         .Item_2-Calendario{
+            height: 80%;
+         }
+
+         .Item_3-Calendario{
+            height: 80%;
+         }
+
+         .Calendario .Item_1-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_1-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_1-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 130px;
+            color: white;
+         }
+
+         .Calendario .Item_2-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_2-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_2-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 100px;
+            color: white;
+         }
+
+         .Calendario .Item_3-Calendario .Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_3-Calendario img.Item-Calendario-Imagen{
+            height: 100px;
+         }
+
+         .Calendario .Item_3-Calendario .Item-Calendario-Titulo{
+            position: absolute;
+            font-weight: bold;
+            font-size: 25px;
+            top: 15px;
+            left: 100px;
+            color: white;
+         }
+
+   .Ediciones_Pasadas{
+   }
+
+      .Ediciones_Pasadas .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Cuerpo{
+         height: 950px;
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Separador{
+         height: 50px;
+      }
+
+      .Ediciones_Pasadas .Ediciones_Pasadas-Video{
+            margin: 100px 100px 100px 325px;
+            display:block;
+      }
+
+      
+
+/* PARTICIPANTES 
+   ============= */
+.Participantes{
+
+}
+
+   .Equipos{
+   }
+   
+      .Equipos .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: ;
+      }
+
+      .Equipos .Equipos-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Equipos .Equipos-Cuerpo{
+            min-height: 550px;
+      }
+         .Equipos .Equipos-Cuerpo .Equipos-Lista{
+               width: 80%;
+               margin: auto;
+               align-items: center;
+               padding: 10px;
+         }
+
+
+            .list-group-item{
+               background-color: black !important;
+               font-weight: bold !important;
+               font-size: 20px;
+               color: white !important;
+               padding: 10px 0px 10px 0px !important; 
+               margin: 10px; 
+            }
+
+            .list-group-item:hover{
+               background-color: black !important;
+               font-weight: bold !important;
+               font-size: 25px;
+               color: #db5c24 !important;
+               padding: 10px 0px 10px 0px !important; 
+            }
+
+/* RECURSOS 
+   ======== */
+.Recursos{
+
+}
+
+   .Entrenamiento{
+      height: 600px; 
+   }
+
+      .Entrenamiento .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+
+      .Entrenamiento .Entrenamiento-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Entrenamiento .Entrenamiento-Cuerpo{
+         margin: 0px 30px 0px 30px;
+      }
+
+      .Entrenemiento .Entrenamiento-Cortinilla{
+         height: 50px;
+      }
+
+      .Entrenamiento .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 10%;
+            left: ;
+      }
+
+   .Separador_3{
+   
+   }
+      .Separador_3 img{
+         width: 100%;
+         height: auto;
+      }
+
+   .Material{
+      
+   }
+
+      .Material .Titulo-Material{
+         height: 150px; 
+         font-weight: bold;
+         font-size: 30px;
+         padding-top: 50px;
+      }
+      
+      .Material .Material-Cuerpo{
+         height: 400px;
+         background-color: black;
+         color: white;
+         display: block;
+      }
+
+         .Material .Material-Cuerpo .Material-fila_1{
+         }
+
+         .Material .Material-Cuerpo .Material-fila_2{
+         }
+
+            .Material .Material-Cuerpo .Material-Elementos{
+               position: relative;
+               font-size: 50px;
+               width: 40%;
+               margin: 50px 50px;
+            }
+            
+            .Material .Material-Cuerpo .Material-Elementos:hover{
+               color: #db5c24;
+               font-size: 50px;
+               margin: 50px;
+            }
+
+   .Lugar{
+      height: 600px;
+   }
+
+   .Comunidad{
+
+   }
+
+      .Comunidad .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+   
+      .Comunidad .Comunidad-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+      .Comunidad .Comunidad-Cuerpo{
+            height: 500px;    
+            margin: 0px 30px 0px 30px;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1{
+            height: 25%;
+            width: 80%;
+            margin: auto;
+            background-color: white;
+      }
+      
+      .Comunidad .Comunidad-Cuerpo a.Comunidad-Cuerpo-Fila_1{
+         color: #db5c24;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1 .btn{
+            background-color: #db5c24;
+            color: white;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+            border-color: #db5c24;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1 .btn:hover{
+            background-color: red;
+            color: white;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+            border-color: red;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Separador{
+            height: 10%;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2{
+            height: 25%;
+            width: 80%;
+            margin: auto;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2 #Icono{
+            color: #db5c24;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2 #Icono:hover{
+            color: red;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+      }
+
+/* ORGANIZADORES
+   ============= */
+.Organizadores{
+
+}
+
+      .Organizadores .Cortinilla{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom:  ;
+            left: 
+      }
+
+      .Organizadores .Organizadores-Titulo{
+            position: relative;
+            color: white; 
+            font-weight: bold;
+            font-size: 30px;
+            padding-top: ;
+            padding-left: 30px; 
+            top: -125px;
+      }
+
+      .Organizadores .Organizadores-Cuerpo{
+         height: 500px; 
+         margin: 0px 30px 0px 30px;
+      }  
+
+      .Organizadores .Cortinilla_inf{
+            width: 100%;
+            position: relative;
+            top: ;
+            right: ;
+            bottom: 0%;
+            left: ;
+      }
+
+      .Organizadores .Organizadores-Separador{
+         height: 50px;
+      }
+
+      .Organizadores .Organizadores-SEAT{
+         width: 100px;
+         height: auto;
+         margin: 30px;
+      }
+
+      .Organizadores .Organizadores-CARNET{
+         margin: 30px;
+      }
+
+/* FOOTER
+   ======*/
+.Footer{
+   width: 100%;
+   position: absolute;
+   top: calc(1000-500);
+   right: ;
+   bottom: ;
+   left: 50%;
+   transform: translate(-50%, 0);
+   }
+
+   #Direccion_1{
+      /* Carrer Jordi Girona, 31 */
+      color: black;
+   }
+
+   #Direccion_1:hover{
+      /* Carrer Jordi Girona, 31 */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Direccion_2{
+      /* Edifci Til·lers, Barcelona */
+      color: black;
+   }
+
+   #Direccion_2:hover{
+      /* Edifci Til·lers, Barcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Telefono{
+      /* +34 93 413 76 04 */
+      color: black;
+      font-weight: bold;
+   }
+
+   #Telefono:hover{
+      /* +34 93 413 76 04 */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #Info-CARNET a{
+      /* info@carnetbarcelona */
+      color: #db5c24;
+   }
+
+   #Info-CARNET a:hover{
+      /* info@carnetbarcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   #CARNET-Web a{
+      /* www.carnet.barcelona */
+      color: #db5c24;
+   }
+
+   #CARNET-Web a:hover{
+      /* www.carnet.barcelona */
+      color: #db5c24;
+      font-weight: bold;
+   }
+
+   .Padre .Footer .Boton_gordo{
+      color: white;
+      background-color: #db5c24;
+   }
+
+   #Icono{
+      color: #db5c24;
+   }
+}
