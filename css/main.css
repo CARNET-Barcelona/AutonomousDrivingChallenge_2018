@@ -528,6 +528,63 @@ body{
             margin: 0px 30px 0px 30px;
       }
 
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1{
+            height: 25%;
+            width: 80%;
+            margin: auto;
+            background-color: white;
+      }
+      
+      .Comunidad .Comunidad-Cuerpo a.Comunidad-Cuerpo-Fila_1{
+         color: #db5c24;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1 .btn{
+            background-color: #db5c24;
+            color: white;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+            border-color: #db5c24;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_1 .btn:hover{
+            background-color: red;
+            color: white;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+            border-color: red;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Separador{
+            height: 10%;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2{
+            height: 25%;
+            width: 80%;
+            margin: auto;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2 #Icono{
+            color: #db5c24;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+      }
+
+      .Comunidad .Comunidad-Cuerpo .Comunidad-Cuerpo-Fila_2 #Icono:hover{
+            color: red;
+            font-weight: bold;
+            position: relative;
+            top: 32%;
+            left: 45%;
+      }
+
 /* ORGANIZADORES
    ============= */
 .Organizadores{
