@@ -395,7 +395,62 @@ body{
             display:block;
       }
 
-      
+      /*  =================================================================================================================================================  */
+
+      /*
+   .Galeria{
+      width: 100%;
+      height: 400px;
+      margin: auto;
+      padding: auto;
+      position: relative;
+      top: 29.6%;
+      right: ;
+      bottom: ;
+      left: ;
+   }
+
+   .Galeria img{
+      width: 100%;
+      height: auto;
+      margin: auto;
+   }
+
+   .Galeria .item{
+      margin: auto;
+      padding: 0px;
+      background-color: black;
+      width: 100%;
+      height: 350px;
+   }
+
+   .Galeria h3{
+      color: #db5c24;
+   }
+
+
+*/
+
+   .Galeria{
+      margin-top: 100px;
+   }
+
+   .imagenes{
+      height: 200px;
+      width: auto;
+   }
+   
+   .grow { transition: all .2s ease-in-out; }
+   .grow:hover { transform: scale(1.5); }
+
+   
+
+
+
+
+      /*  =================================================================================================================================================  */
+  
+
 
 /* PARTICIPANTES 
    ============= */
@@ -1112,6 +1167,8 @@ body{
             margin: 100px 100px 100px 325px;
             display:block;
       }
+
+
 
       
 
