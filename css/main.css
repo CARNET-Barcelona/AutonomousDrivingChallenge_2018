@@ -45,8 +45,55 @@ body{
 }
    
    .Cabecera{
-      
+      background-color: black;
    }   
+
+/*  =================================================================================================================================================  */
+#myVideo {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    width: 100%; 
+    height: auto;
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
+
+/* Style the button used to pause/play the video */
+#myBtn {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background: #db5c24;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    position: relative;
+    margin: auto;
+    left: 40%;
+}
+
+#myBtn:hover {
+    background: #ddd;
+    color: black;
+    position: relative;
+    border-radius: 10px;
+    margin: auto;
+    left: 40%;
+}
+.boton-video{
+   height: 55px;
+}
+/*  =================================================================================================================================================  */
 
       .Cabecera .Cortinilla{
             width: 100%;
@@ -731,7 +778,7 @@ body{
 }
 
 .Padre{
-   width: 600px;
+   width: 100%;
    height: auto;
    background-color: white;
    position: relative;
