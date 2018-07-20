@@ -375,19 +375,19 @@ body{
             position: relative;
             color: white; 
             font-weight: bold;
-            font-size: 30px;
+            font-size: 3vh;
             padding-top: ;
             padding-left: 30px; 
-            top: -125px;
+            top: -105px;
       }
 
       .Ediciones_Pasadas .Ediciones_Pasadas-Cuerpo{
-         height: 950px;
-         margin: 0px 30px 0px 30px;
+         height: 1000px;
+         margin: 0px 30px 0px 30px;font-size: 2vh;
       }
 
       .Ediciones_Pasadas .Ediciones_Pasadas-Separador{
-         height: 50px;
+         height: 30px;
       }
 
       .Ediciones_Pasadas .Ediciones_Pasadas-Video{
@@ -396,40 +396,6 @@ body{
       }
 
       /*  =================================================================================================================================================  */
-
-      /*
-   .Galeria{
-      width: 100%;
-      height: 400px;
-      margin: auto;
-      padding: auto;
-      position: relative;
-      top: 29.6%;
-      right: ;
-      bottom: ;
-      left: ;
-   }
-
-   .Galeria img{
-      width: 100%;
-      height: auto;
-      margin: auto;
-   }
-
-   .Galeria .item{
-      margin: auto;
-      padding: 0px;
-      background-color: black;
-      width: 100%;
-      height: 350px;
-   }
-
-   .Galeria h3{
-      color: #db5c24;
-   }
-
-
-*/
 
    .Galeria{
       margin-top: 100px;
@@ -440,14 +406,10 @@ body{
       width: auto;
    }
    
-   .grow { transition: all .2s ease-in-out; }
+   .grow { transition: all .1s ease-in-out; }
    .grow:hover { transform: scale(1.5); }
 
    
-
-
-
-
       /*  =================================================================================================================================================  */
   
 
