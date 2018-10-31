@@ -234,6 +234,13 @@ body{
             left: ;
       }
 
+      .Evento-final-boton-localizacion,
+      .Evento-final-boton-localizacion:hover,
+      .Evento-final-boton-localizacion:active{
+            background-color: #db5c24 !important;
+            border-color: red !important
+      }
+
    .Separador_2{
 
    }
@@ -562,7 +569,8 @@ body{
             }
 
    .Lugar{
-      height: 600px;
+      /*height: 600px;*/
+      height: 0px;
    }
 
    .Comunidad{
